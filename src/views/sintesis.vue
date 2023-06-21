@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 Por último, el siguiente mapa conceptual destaca la relevancia fundamental de seguir protocolos de laboratorio adecuados y realizar un análisis preciso de las muestras de agua en el tratamiento de aguas residuales. El manejo adecuado de los protocolos garantiza resultados confiables y reproducibles, mientras que el análisis de muestras proporciona información valiosa sobre las propiedades y componentes del agua. Sabiendo esto y para una breve revisión de los temas vistos, puede observar el siguiente esquema:
 
     .row.justify-content-center
       .col-lg-10.mb-5
