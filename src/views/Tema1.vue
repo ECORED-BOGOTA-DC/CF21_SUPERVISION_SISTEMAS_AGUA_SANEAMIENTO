@@ -608,6 +608,85 @@
       .col-lg-4
         img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-32.png" style="width: 400px")
     
+    .row.mb-5
+      .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
+        .tarjeta.tarjeta-edit-01
+          span.number-card 1
+          .img-border
+            img(src="@/assets/curso/temas/tema1/img-c-1.svg" style="width: 95px")
+          p.mb-0.text-center Pulse la tecla CALIBRACIÓN para entrar al modo de Calibración, siga las instrucciones en la pantalla. Nota: Invierta suavemente cada estándar antes de insertarlo.
+
+      .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
+        .tarjeta.tarjeta-edit-01
+          span.number-card 2
+          .img-border
+            img(src="@/assets/curso/temas/tema1/img-c-2.svg" style="width: 95px")
+          p.mb-0.text-center Inserte el estándar para 20 NTU y coloque la tapa. Nota: el estándar a ser insertado aparece en el display en un recuadro.
+      .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
+        .tarjeta.tarjeta-edit-01
+          span.number-card 3
+          .img-border
+            img(src="@/assets/curso/temas/tema1/img-c-3.svg" style="width: 95px")
+          p.mb-0.text-center Pulse Medición, la pantalla muestra Estabilizando y luego muestra el resultado.
+
+      .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
+        .tarjeta.tarjeta-edit-01
+          span.number-card 4
+          .img-border
+            img(src="@/assets/curso/temas/tema1/img-c-4.svg" style="width: 95px")
+          p.mb-0.text-center Repita los pasos 2 y 3 con el estándar para 100 NTU y 800 NTU. Nota: pulse “hecho” para completar una calibración de 2 puntos.
+      
+      .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
+        .tarjeta.tarjeta-edit-01
+          span.number-card 5
+          .img-border
+            img(src="@/assets/curso/temas/tema1/img-c-5.svg" style="width: 95px")
+          p.mb-0.text-center Pulse “Hecho” para revisar los detalles de la calibración.
+      
+      .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
+        .tarjeta.tarjeta-edit-01
+          span.number-card 6
+          .img-border
+            img(src="@/assets/curso/temas/tema1/img-c-6.svg" style="width: 95px")
+          p.mb-0.text-center Pulse “Guardar” para guardar los resultados. Después de terminar la calibración, el medidor automáticamente pasa al modo “Verificar cal”.
+
+
+    .tarjeta.d-flex.col-xxl-10.mx-auto.p-4.py-xl-0.ps-xl-0.position-relative(style="background: linear-gradient(0deg, rgba(77,177,240,1) 0%, rgba(48,118,182,1) 100%);")
+      img.position-absolute.d-none.d-xl-flex(src="@/assets/curso/temas/tema1/img-33.png" style="width: 238px; left: -1.5rem; bottom: 0")
+      .col-xl-9.ms-xl-auto.py-xl-5
+        p.fw-bold.text-white Con el fin de conocer más equipos utilizados en el laboratorio para la determinación de parámetros en aguas residuales, se invita a consultar:
+        ul.mb-0
+          li.d-flex.flex-wrap.flex-md-nowrap
+            .d-flex.pe-xl-4
+              span.decorador-li
+              p Servicio Nacional de Aprendizaje [SENA]. 2018. <b>Manual para el uso del termo reactor ECO 25.</b> Centro de Gestión Industrial [CGI].
+            .col-sm-auto
+              a.boton.color-acento-botones(href="http://biblioteca.SENA.edu.co/paginas/bases.html" target="_blank" style="min-width: ")
+                span.pe-3 Descargar
+                img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
+          
+          li.d-flex.flex-wrap.flex-md-nowrap
+            .d-flex.pe-xl-4
+              span.decorador-li
+              p Servicio Nacional de Aprendizaje [SENA]. 2017. <b>Manual para uso del equipo cabina de extracción control superior CS-EO1200.</b> Centro de Gestión Industrial [CGI].
+            .col-sm-auto
+              a.boton.color-acento-botones(href="http://biblioteca.SENA.edu.co/paginas/bases.html" target="_blank" style="min-width: ")
+                span.pe-3 Descargar
+                img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
+          
+          li.d-flex.flex-wrap.flex-md-nowrap
+            .d-flex.pe-xl-4
+              span.decorador-li
+              p Servicio Nacional de Aprendizaje [SENA]. 2017. <b>Manual para uso del equipo MRC balanza de precisión BWLC 1-A2-C2.</b> Centro de Gestión Industrial [CGI].
+            .col-sm-auto
+              a.boton.color-acento-botones(href="http://biblioteca.SENA.edu.co/paginas/bases.html" target="_blank" style="min-width: ")
+                span.pe-3 Descargar
+                img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
+
+
+
+
+
 
 </template>
 
@@ -653,4 +732,63 @@ export default {
       text-align: center
       padding: 0
       font-weight: bold
+.tarjeta-edit-01
+  max-width: 400px
+  padding: 2rem 2.5rem
+  background-color: #D5E3F0
+  overflow: hidden
+  position: relative
+  transition: all .2s ease-in-out
+  cursor: default
+  .number-card
+    position: absolute
+    top: 0
+    left: 0
+    width: 53px
+    height: 58px
+    display: flex
+    justify-content: center
+    align-items: center
+    font-weight: bold
+    font-size: 24px
+    color: white
+    background-color: #008B8A
+  .img-border
+    position: relative
+    margin-bottom: 1.5rem
+    max-width: 95px
+    margin-right: auto
+    margin-left: auto
+    img
+      margin-right: auto
+      margin-left: auto
+      border: 10px solid #FFA031
+      transition: all .1s ease-in-out
+    &::after
+      content: ''
+      position: absolute
+      min-width: 30px
+      min-height: 30px
+      background-color: #3076B6
+      border-radius: 50%
+      top: 10px
+      left: -15px
+      transition: all .1s linear
+    &::before
+      content: ''
+      position: absolute
+      min-width: 11px
+      min-height: 11px
+      background-color: #008B8A
+      border-radius: 50%
+      top: 67px
+      right: 5px
+      transition: all .1s linear
+  &:hover
+    background-color: #FFA031
+    .img-border
+      img
+        border-color: #3076B6
+      &::before, &::after
+        background-color: #4DB1F0
 </style>
