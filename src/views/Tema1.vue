@@ -661,7 +661,7 @@
               span.decorador-li
               p Servicio Nacional de Aprendizaje [SENA]. 2018. <b>Manual para el uso del termo reactor ECO 25.</b> Centro de Gestión Industrial [CGI].
             .col-sm-auto
-              a.boton.color-acento-botones(href="http://biblioteca.SENA.edu.co/paginas/bases.html" target="_blank" style="min-width: ")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/ME17_TERMOREACTOR--FORMATO-SENA.pdf')" target="_blank" style="min-width: ")
                 span.pe-3 Descargar
                 img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
           
@@ -670,7 +670,7 @@
               span.decorador-li
               p Servicio Nacional de Aprendizaje [SENA]. 2017. <b>Manual para uso del equipo cabina de extracción control superior CS-EO1200.</b> Centro de Gestión Industrial [CGI].
             .col-sm-auto
-              a.boton.color-acento-botones(href="http://biblioteca.SENA.edu.co/paginas/bases.html" target="_blank" style="min-width: ")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/ME04_CABINA_EXTRACCION_CONTROL_SUPERIOR_EC_1200_S_FORMATO_SENA.pdf')" target="_blank" style="min-width: ")
                 span.pe-3 Descargar
                 img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
           
@@ -679,7 +679,7 @@
               span.decorador-li
               p Servicio Nacional de Aprendizaje [SENA]. 2017. <b>Manual para uso del equipo MRC balanza de precisión BWLC 1-A2-C2.</b> Centro de Gestión Industrial [CGI].
             .col-sm-auto
-              a.boton.color-acento-botones(href="http://biblioteca.SENA.edu.co/paginas/bases.html" target="_blank" style="min-width: ")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/ME03_MRC_BALANZA_PRECISION_BWLC_1-A2-C2_FORMATO_SENA.pdf')" target="_blank" style="min-width: ")
                 span.pe-3 Descargar
                 img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
 
