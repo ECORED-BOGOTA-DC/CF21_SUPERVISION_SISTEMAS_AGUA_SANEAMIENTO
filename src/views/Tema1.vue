@@ -2,30 +2,30 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span 1
       h1 Protocolos de laboratorio
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-1.svg" style="width: 85px")
-      p.col-sm.ps-sm-4.mb-0 Monitorear las aguas residuales es un proceso que involucra diversos aspectos y fases, entre las cuales se destacan los protocolos de laboratorio. Estos procedimientos deben ser  implementados con el fin de garantizar la ejecución de todas las acciones necesarias para obtener resultados en cuanto a las características de las aguas residuales, y que permitan la toma de decisiones.
-    p.mb-5 A continuación, se hace una descripción de tres elementos importantes en el seguimiento y ejecución de los protocolos de laboratorio:
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-1.svg" style="width: 85px" data-aos="fade-right")
+      p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") Monitorear las aguas residuales es un proceso que involucra diversos aspectos y fases, entre las cuales se destacan los protocolos de laboratorio. Estos procedimientos deben ser  implementados con el fin de garantizar la ejecución de todas las acciones necesarias para obtener resultados en cuanto a las características de las aguas residuales, y que permitan la toma de decisiones.
+    p.mb-5(data-aos="fade-right") A continuación, se hace una descripción de tres elementos importantes en el seguimiento y ejecución de los protocolos de laboratorio:
 
     .titulo-segundo.color-acento-botones
       h2#t_1_1 1.1 Normas generales de usos de laboratorios
     
-    p.mb-5 Existen unas normas generales que deben ser tenidas en cuenta al momento de realizar cualquier ensayo o procedimiento dentro de un laboratorio, revíselas a continuación: 
+    p.mb-5(data-aos="fade-right") Existen unas normas generales que deben ser tenidas en cuenta al momento de realizar cualquier ensayo o procedimiento dentro de un laboratorio, revíselas a continuación: 
 
     .tarjeta.p-4(style="background-color: #DFEAF3")
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4.col-lg-11.mx-auto.align-items-start
-          .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
+          .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1(data-aos="fade-right")
             h3 Inducción a la seguridad en los laboratorios
             p Reconocer y comprender las normas de seguridad en un laboratorio es crucial debido a los riesgos asociados con sustancias químicas y equipos. Aunque las normas varían según el laboratorio, es fundamental conocer las instalaciones y la ubicación de dispositivos de seguridad como salidas de emergencia, rutas de evacuación, extintores, botiquines de primeros auxilios, duchas de emergencia y fuentes de lavaojos. Estos conceptos son mínimos para actuar adecuadamente y responder a situaciones de emergencia en cualquier espacio de trabajo.
 
           .order-1.order-lg-2.mb-4.mb-lg-auto.col-lg-6
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema1/sla-1.png' alt='Texto que describa la imagen' style="max-width: 505px")
+              img.mx-auto(src='@/assets/curso/temas/tema1/sla-1.png' alt='Texto que describa la imagen' style="max-width: 505px" data-aos="fade-left")
         
         .row.justify-content-center.my-lg-4.col-lg-11.mx-auto.align-items-start
           .col-lg-6.mb-4.mb-md-0.order-2.order-lg-1
@@ -99,20 +99,20 @@
       h2#t_1_2 1.2 Materiales para la caracterización de agua residual
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema1/img-2.png' alt='Texto que describa la imagen' style="max-width: 400px")
-      p.mb-0.col-lg-8.ps-md-4 Para realizar la medición de los parámetros fisicoquímicos y biológicos de las aguas residuales, es necesario contar con una serie de materiales que permitan la operación dentro del laboratorio. Existen diferentes clasificaciones, sin embargo, la más utilizada es de acuerdo con el material de fabricación. 
+      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema1/img-2.png' alt='Texto que describa la imagen' style="max-width: 400px" data-aos="fade-right")
+      p.mb-0.col-lg-8.ps-md-4(data-aos="fade-left") Para realizar la medición de los parámetros fisicoquímicos y biológicos de las aguas residuales, es necesario contar con una serie de materiales que permitan la operación dentro del laboratorio. Existen diferentes clasificaciones, sin embargo, la más utilizada es de acuerdo con el material de fabricación. 
         br
         br
         |Cuando se tienen materiales de laboratorio, se busca que estos sean inertes, para que no afecten las mediciones obtenidas a partir de los métodos estandarizados, al tiempo que sean resistentes, para que tengan una vida útil prolongada. A continuación, se estudian algunos de los materiales más utilizados.
     
-    .titulo-edit.mb-5
+    .titulo-edit.mb-5(data-aos="fade-left")
       h3 Materiales de vidrio
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-3.svg" style="width: 85px")
-      p.col-sm.ps-sm-4.mb-0 Son muy utilizados debido a que tienen una buena resistencia a la temperatura; adicionalmente, se pueden obtener formas, a partir de la fundición, práctica usada en el desarrollo de los laboratorios; pueden tener desprendimientos laterales, se pueden unir piezas de vidrio mediante la fundición, su transparencia permite observar el interior, entre otras ventajas. Algunos de los más comunes son:
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-3.svg" style="width: 85px" data-aos="fade-right")
+      p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") Son muy utilizados debido a que tienen una buena resistencia a la temperatura; adicionalmente, se pueden obtener formas, a partir de la fundición, práctica usada en el desarrollo de los laboratorios; pueden tener desprendimientos laterales, se pueden unir piezas de vidrio mediante la fundición, su transparencia permite observar el interior, entre otras ventajas. Algunos de los más comunes son:
     
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
       .tarjeta.p-4(style="background-color: #FFE2C0")
         .row.justify-content-center.mb-3
           .col-8
@@ -148,16 +148,16 @@
         h4.text-center Probeta
         p.text-center Es un material cilíndrico, con medidas a lo largo de su cuerpo que permite observar el volumen del líquido contenido en él; en la parte inferior, es cerrado, con base plana, y en la parte superior, es abierto, con un pico que permite la transferencia fácil y rápida de los líquidos que allí se encuentran.
 
-    .titulo-edit.mb-5
+    .titulo-edit.mb-5(data-aos="fade-left")
       h3 Materiales de plástico
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-9.svg" style="width: 85px")
-      p.col-sm.ps-sm-4.mb-0 El plástico es un material ideal para la fabricación de material de laboratorio por su alta capacidad de resistencia a la corrosividad, en él se pueden hacer soluciones, tanto ácidas como básicas, sin que se altere su forma ni su calidad. Adicionalmente, el plástico tiene un peso ligero, lo que permite que sea transportado con mayor facilidad y una mejor resistencia frente a los impactos comparado con el vidrio, lo que minimiza el gasto por material roto dentro del laboratorio.
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-9.svg" style="width: 85px" data-aos="fade-right")
+      p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") El plástico es un material ideal para la fabricación de material de laboratorio por su alta capacidad de resistencia a la corrosividad, en él se pueden hacer soluciones, tanto ácidas como básicas, sin que se altere su forma ni su calidad. Adicionalmente, el plástico tiene un peso ligero, lo que permite que sea transportado con mayor facilidad y una mejor resistencia frente a los impactos comparado con el vidrio, lo que minimiza el gasto por material roto dentro del laboratorio.
 
-    p.mb-5 En general, la mayoría de los materiales que se fabrican en vidrio también se obtienen en plástico, por las propiedades antes mencionadas. Otros que se pueden encontrar en el laboratorio se estudiarán a continuación.
+    p.mb-5(data-aos="fade-right") En general, la mayoría de los materiales que se fabrican en vidrio también se obtienen en plástico, por las propiedades antes mencionadas. Otros que se pueden encontrar en el laboratorio se estudiarán a continuación.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-md-6.col-xl-4.mb-4.mb-xl-0(style="max-width: 400px")
         .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false" style="min-height: 380px; background-color: #C0D5E9")
           .indicador--hover(v-if="indicadorTarjetaSlide")
@@ -186,15 +186,15 @@
               h3.mb-3 Jarras
               p Son recipientes que permiten contener mayores volúmenes de líquidos, cuentan con base plana y un pico en la parte superior que permite el trasvase con mayor facilidad.
 
-    .titulo-edit.mb-5
+    .titulo-edit.mb-5(data-aos="fade-left")
       h3 Materiales de porcelana
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-13.svg" style="width: 85px")
-      p.col-sm.ps-sm-4.mb-0 La porcelana es un tipo de material que encuentra una amplia aplicación en las prácticas de determinación de parámetros fisicoquímicos que requieren resistencia a altas temperaturas (superiores a 500 °C). Su excepcional resistencia térmica la convierte en una opción preferida cuando se necesitan soportar condiciones extremas. A continuación, se examinarán algunos de los materiales de porcelana más utilizados en este contexto.
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-13.svg" style="width: 85px" data-aos="fade-right")
+      p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") La porcelana es un tipo de material que encuentra una amplia aplicación en las prácticas de determinación de parámetros fisicoquímicos que requieren resistencia a altas temperaturas (superiores a 500 °C). Su excepcional resistencia térmica la convierte en una opción preferida cuando se necesitan soportar condiciones extremas. A continuación, se examinarán algunos de los materiales de porcelana más utilizados en este contexto.
 
     .row.mb-5
-      .col-12.col-lg.mb-4
+      .col-12.col-lg.mb-4(data-aos="fade-right")
         .tarjeta.p-4.color-primario
           .row.justify-content-center.mb-4.mb-md-5
             .col-8
@@ -202,7 +202,7 @@
           h3 Crisol:
           p Es un contenedor cóncavo, normalmente utilizado para la determinación de análisis gravimétricos, muy resistente a altas temperaturas; en este material, se pueden fundir, mezclar o calcinar diferentes compuestos.
       
-      .col-12.col-lg.mb-4
+      .col-12.col-lg.mb-4(data-aos="fade-left")
         .tarjeta.p-4.color-acento-contenido
           .row.justify-content-center.mb-4.mb-md-5
             .col-8
@@ -210,24 +210,24 @@
           h3 Morteros: 
           p son contenedores cóncavos con base plana, diseñados para moler y triturar, cuentan con gran resistencia mecánica, por lo que se pueden pulverizar sólidos sobre él sin la preocupación de una ruptura.
 
-    .titulo-edit.mb-5
+    .titulo-edit.mb-5(data-aos="fade-left")
       h3 Materiales de metal
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-16.svg" style="width: 85px")
-      p.col-sm.ps-sm-4.mb-0 En el entorno del laboratorio, el metal se destaca como un material ampliamente utilizado debido a su resistencia y durabilidad, es un material utilizado en las herramientas que se encuentran en el laboratorio. Algunas de las piezas principales que se pueden encontrar se estudiarán a continuación.
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-16.svg" style="width: 85px" data-aos="fade-right")
+      p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") En el entorno del laboratorio, el metal se destaca como un material ampliamente utilizado debido a su resistencia y durabilidad, es un material utilizado en las herramientas que se encuentran en el laboratorio. Algunas de las piezas principales que se pueden encontrar se estudiarán a continuación.
     
     .row.justify-content-center
       .col-lg-4
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-17.png" style="width: 400px")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-17.png" style="width: 400px" data-aos="fade-right")
       .col-lg-8.ps-lg-4
-        .tarjeta.p-4.row.align-items-center.mb-4(style="background-color: #FFE2C0")
+        .tarjeta.p-4.row.align-items-center.mb-4(style="background-color: #FFE2C0" data-aos="fade-left")
           .col-md.order-2.order-md-1
             h3 Pinza
             p.mb-0 Herramienta de dos piezas metálicas, unidas entre sí por un tornillo que permite la graduación de la distancia entre ellas, se utiliza para sujetar diferentes materiales de acuerdo con las necesidades de la práctica.
           img.mb-4.my-md-auto.order-1.order-md-2(src="@/assets/curso/temas/tema1/img-18.svg" style="width: 85px")
 
-        .tarjeta.p-4.row.align-items-center(style="background-color: #FFE2C0")
+        .tarjeta.p-4.row.align-items-center(style="background-color: #FFE2C0" data-aos="fade-left")
           .col-md.order-2.order-md-1
             h3 Soporte universal
             p.mb-0 Es una herramienta que permite sujetar diferentes montajes de materiales y accesorios para la realización de ensayos fisicoquímicos, está compuesto por una base de hierro pesada y de forma rectangular, que da soporte, y una varilla vertical que sirve como columna de los montajes; de esta varilla, se sujetan pinzas, nueces y otros accesorios.
@@ -238,67 +238,67 @@
     .titulo-segundo.color-acento-botones
       h2#t_1_3 1.3 Equipos de laboratorio
 
-    p.mb-5 La determinación de los parámetros fisicoquímicos establecidos en la Resolución 0631 de 2015, exige el uso de equipos de laboratorio especializados en técnicas de medición. A continuación, se estudiará algunos de los más utilizados.
+    p.mb-5(data-aos="fade-right") La determinación de los parámetros fisicoquímicos establecidos en la Resolución 0631 de 2015, exige el uso de equipos de laboratorio especializados en técnicas de medición. A continuación, se estudiará algunos de los más utilizados.
 
-    .titulo-edit.mb-5
+    .titulo-edit.mb-5(data-aos="fade-left")
       h3 Multiparámetros
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-20.svg" style="width: 85px")
-      p.col-sm.ps-sm-4.mb-0 Los medidores portátiles, o multiparámetros, son equipos que se usan con sondas digitales para medir diversos parámetros en agua. El medidor reconoce el tipo de sonda que se le conecta. Los datos se pueden guardar y transferir a una impresora, PC o dispositivo de almacenamiento USB. Entre los parámetros más comunes que suelen medir a través de las sondas de multiparámetros, se encuentran el pH, la conductividad, la temperatura y el oxígeno disuelto.
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-20.svg" style="width: 85px" data-aos="fade-right")
+      p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") Los medidores portátiles, o multiparámetros, son equipos que se usan con sondas digitales para medir diversos parámetros en agua. El medidor reconoce el tipo de sonda que se le conecta. Los datos se pueden guardar y transferir a una impresora, PC o dispositivo de almacenamiento USB. Entre los parámetros más comunes que suelen medir a través de las sondas de multiparámetros, se encuentran el pH, la conductividad, la temperatura y el oxígeno disuelto.
 
     .row.justify-content-center.p-4.py-lg-5.mb-5(style="background-color: #FFECD5")
       .col-lg-4
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-21.svg" style="width: 400px")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-21.svg" style="width: 400px" data-aos="fade-right")
       .col-lg-8.ps-lg-4
-        p.mb-4 Los medidores del multiparámetro tienen dos (2) conectores de sonda, con las siguientes características:
+        p.mb-4(data-aos="fade-right") Los medidores del multiparámetro tienen dos (2) conectores de sonda, con las siguientes características:
         ul.lista-ul--color
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Reconocimiento automático de sonda, incluyendo número de serie.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Datos de calibración almacenados en la sonda.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Métodos para el cumplimiento normativo y las buenas prácticas de laboratorio.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Opciones de seguridad.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Registro de datos en tiempo real mediante conexión USB.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Almacenamiento de datos internos de 500 resultados.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Conectividad USB con PC, impresora, dispositivo de almacenamiento interno, teclado.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | ID de muestra e ID de operador para la trazabilidad de los datos.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Alimentación con pilas alcalinas AA o de hidruro metálico de níquel recargables o adaptador de CA.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Apagado automático ajustable para una mayor duración de las pilas.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | IP67 (sumergible a 1 metro, durante 30 minutos, excluyendo la carcasa de las pilas. Compartimento de las pilas sumergible a 0,6 metros durante 15 segundos).
 
     .row.justify-content-center.mb-5
       .col-lg-8.pe-lg-4.order-2.order-lg-1
-        p Para conectar las sondas al multiparámetro, de acuerdo con la medición que se quiere realizar, se debe asegurar que la pantalla muestre la fecha y hora actuales. Se debe verificar que el multiparámetro esté encendido y funcionando correctamente. En caso de que esté apagado, es recomendable encenderlo y esperar a que se inicialice.
+        p(data-aos="fade-right") Para conectar las sondas al multiparámetro, de acuerdo con la medición que se quiere realizar, se debe asegurar que la pantalla muestre la fecha y hora actuales. Se debe verificar que el multiparámetro esté encendido y funcionando correctamente. En caso de que esté apagado, es recomendable encenderlo y esperar a que se inicialice.
           br
           br
           |Se debe observar la pantalla del multiparámetro para asegurarse de que muestra la fecha y hora correctas. En caso de que no sea así, se recomienda consultar el manual del dispositivo para ajustar la configuración de fecha y hora.
         .cajon.color-acento-contenido.p-4.px-lg-5
           p.mb-0(data-aos="fade-left") <em><b>Nota:</b></em> El sello de tiempo de las sondas se fija cuando se conecta por primera vez al medidor. Este sello de tiempo hace posible registrar la historia de la sonda y el tiempo en que se hacen mediciones.
       .col-lg-4.order-1.order-lg-2
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-22.png" style="width: 400px")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-22.png" style="width: 400px" data-aos="fade-left")
 
-    p.mb-5 La siguiente figura destaca tres elementos clave: <b>el puerto de conexión de la sonda (número 1), el puerto del adaptador USB/CC (número 2) y el puerto de conexión de la sonda (número 3).</b> Estos puertos permiten una conexión rápida y sencilla de las sondas correspondientes al multiparámetro: ver figura 1
+    p.mb-5(data-aos="fade-right") La siguiente figura destaca tres elementos clave: <b>el puerto de conexión de la sonda (número 1), el puerto del adaptador USB/CC (número 2) y el puerto de conexión de la sonda (número 3).</b> Estos puertos permiten una conexión rápida y sencilla de las sondas correspondientes al multiparámetro: ver figura 1
 
     .titulo-sexto.color-acento-contenido.d-block
       h5 Figura 1
@@ -306,17 +306,17 @@
     .p-3.mb-1(style="background-color: #DBEFFC")
       .row.col-xl-10.mx-auto.align-items-center
         .col-lg-4.mb-4.my-lg-auto
-          .decorador-img-1
+          .decorador-img-1(data-aos="fade-right")
             p.mb-0 <b>1.</b> Puerto de conexión de la sonda (sólo HQ40d).
-          .decorador-img-1
+          .decorador-img-1(data-aos="fade-right")
             p.mb-0 <b>2.</b> Puerto del adaptador USB/CC.
-          .decorador-img-1
+          .decorador-img-1(data-aos="fade-right")
             p.mb-0 <b>3.</b> Puerto de conexión de la sonda.
         .col-lg-8.ps-lg-4
-          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-23.svg" style="width: 570px")
+          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-23.svg" style="width: 570px" data-aos="fade-left")
     p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomado de Hach (2017, p. 12).
 
-    p.mb-5 El teclado del multiparámetro es una herramienta fundamental que permite una interacción fácil y eficiente con el dispositivo. A continuación, se presenta una breve descripción de las diferentes teclas y funciones que ofrece:
+    p.mb-5(data-aos="fade-right") El teclado del multiparámetro es una herramienta fundamental que permite una interacción fácil y eficiente con el dispositivo. A continuación, se presenta una breve descripción de las diferentes teclas y funciones que ofrece:
 
     .titulo-sexto.color-acento-contenido.d-block
       h5 Figura 2
@@ -326,28 +326,28 @@
         .col-lg-6.mb-4.mb-lg-auto
           table.tabla-edit
             tr
-              td <b>1 ON/OFF:</b> encendido o apagado del medidor.
+              td(data-aos="fade-right") <b>1 ON/OFF:</b> encendido o apagado del medidor.
             tr
-              td <b>2 ID DE USUARIO:</b> datos asociados con una persona.
+              td(data-aos="fade-right") <b>2 ID DE USUARIO:</b> datos asociados con una persona.
             tr
-              td <b>3 ILUMINACIÓN:</b> iluminación de la pantalla de visualización.
+              td(data-aos="fade-right") <b>3 ILUMINACIÓN:</b> iluminación de la pantalla de visualización.
             tr
-              td <b>4 ID MUESTRA MANUAL:</b> datos asociados con una ubicación de muestra.
+              td(data-aos="fade-right") <b>4 ID MUESTRA MANUAL:</b> datos asociados con una ubicación de muestra.
             tr
-              td <b>5 TECLA AZUL/IZQUIERDA:</b> selección de opciones de menú.
+              td(data-aos="fade-right") <b>5 TECLA AZUL/IZQUIERDA:</b> selección de opciones de menú.
             tr
-              td <b>6 TECLAS ARRIBA y ABAJO:</b> desplazamiento por los menús, introducción de números y letras o cambio de la pantalla de visualización de lecturas.
+              td(data-aos="fade-right") <b>6 TECLAS ARRIBA y ABAJO:</b> desplazamiento por los menús, introducción de números y letras o cambio de la pantalla de visualización de lecturas.
             tr
-              td <b>7 TECLA VERDE/DERECHA:</b> selección de opciones de menú.
+              td(data-aos="fade-right") <b>7 TECLA VERDE/DERECHA:</b> selección de opciones de menú.
             tr
-              td <b>8 REGISTRO DE DATOS:</b> para abrir o transferir datos almacenados.
+              td(data-aos="fade-right") <b>8 REGISTRO DE DATOS:</b> para abrir o transferir datos almacenados.
             tr
-              td <b>9 OPCIONES DEL MEDIDOR:</b> cambio de la configuración, ejecución de comprobaciones estándar, visualización de información del medidor.
+              td(data-aos="fade-right") <b>9 OPCIONES DEL MEDIDOR:</b> cambio de la configuración, ejecución de comprobaciones estándar, visualización de información del medidor.
         .col-lg-6.ps-lg-4
-          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-24.svg" style="width: 523px")
+          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-24.svg" style="width: 523px" data-aos="fade-left")
     p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomado de Hach (2017, p. 9).
 
-    p.mb-5 Una vez las sondas están correctamente conectadas, la pantalla del medidor muestra la última concentración medida, unidades, temperatura, el estado de calibración, ID del operador, ID de la muestra, la fecha y la hora, como se muestra en la figura 3: 
+    p.mb-5(data-aos="fade-right") Una vez las sondas están correctamente conectadas, la pantalla del medidor muestra la última concentración medida, unidades, temperatura, el estado de calibración, ID del operador, ID de la muestra, la fecha y la hora, como se muestra en la figura 3: 
 
     .titulo-sexto.color-acento-contenido.d-block
       h5 Figura 3
@@ -357,90 +357,90 @@
         .col-lg-5.mb-4.mb-lg-auto
           table.tabla-edit
             tr
-              td.fw-bold 1 Indicador del estado de calibración.
+              td.fw-bold(data-aos="fade-right") 1 Indicador del estado de calibración.
             tr
-              td.fw-bold 2 Tipo de sonda IntelliCAL e indicador de puerto.
+              td.fw-bold(data-aos="fade-right") 2 Tipo de sonda IntelliCAL e indicador de puerto.
             tr
-              td.fw-bold 3 Unidad de medición principal.
+              td.fw-bold(data-aos="fade-right") 3 Unidad de medición principal.
             tr
-              td.fw-bold 4 Estado de la batería o fuente de alimentación.
+              td.fw-bold(data-aos="fade-right") 4 Estado de la batería o fuente de alimentación.
             tr
-              td.fw-bold 5 Temperatura de la muestra (ºC o ºF).
+              td.fw-bold(data-aos="fade-right") 5 Temperatura de la muestra (ºC o ºF).
             tr
-              td.fw-bold 6 Unidad de medición secundaria.
+              td.fw-bold(data-aos="fade-right") 6 Unidad de medición secundaria.
             tr
-              td.fw-bold 7 Unidades terciarias (para algunas sondas).
+              td.fw-bold(data-aos="fade-right") 7 Unidades terciarias (para algunas sondas).
             tr
-              td.fw-bold 8 Hora.
+              td.fw-bold(data-aos="fade-right") 8 Hora.
             tr
-              td.fw-bold 9 Fecha.
+              td.fw-bold(data-aos="fade-right") 9 Fecha.
             tr
-              td.fw-bold 10 Ícono de tamaño de la pantalla.
+              td.fw-bold(data-aos="fade-right") 10 Ícono de tamaño de la pantalla.
             tr
-              td.fw-bold 11 Identificación de muestra y operador.
+              td.fw-bold(data-aos="fade-right") 11 Identificación de muestra y operador.
             tr
-              td.fw-bold 12 Indicador de estabilidad o bloqueo de pantalla.
+              td.fw-bold(data-aos="fade-right") 12 Indicador de estabilidad o bloqueo de pantalla.
         .col-lg-7.px-0
-          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-25.svg" style="width: 610px")
+          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-25.svg" style="width: 610px" data-aos="fade-left")
     p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomada de Hach (2017, p.10).
 
-    p.mb-5 Cada sonda requiere de una calibración específica; por ejemplo, el pH se hace mediante una curva de calibración con soluciones buffer de referencia a 4, 7 y 10; la sonda de oxígeno disuelto se calibra con una muestra de agua agitada; y la sonda de conductividad se hace con una solución estándar de cloruro de potasio.
+    p.mb-5(data-aos="fade-right") Cada sonda requiere de una calibración específica; por ejemplo, el pH se hace mediante una curva de calibración con soluciones buffer de referencia a 4, 7 y 10; la sonda de oxígeno disuelto se calibra con una muestra de agua agitada; y la sonda de conductividad se hace con una solución estándar de cloruro de potasio.
 
-    .titulo-edit.mb-5
+    .titulo-edit.mb-5(data-aos="fade-left")
       h3 Test de jarras
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-26.svg" style="width: 85px")
-      p.col-sm.ps-sm-4.mb-0 Este equipo sirve para la determinación de los agentes floculantes para lograr la sedimentación, en el diseño de mezclas para el tratamiento de agua potable, evaluación de la eficiencia, un absorbente sobre agentes tóxicos, para optimizar la adición de coagulantes y polielectrolitos para el tratamiento de aguas residuales y potables, es ideal para dosificación de mezclas y excelente para pruebas de campo por su poco peso.
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-26.svg" style="width: 85px" data-aos="fade-right")
+      p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") Este equipo sirve para la determinación de los agentes floculantes para lograr la sedimentación, en el diseño de mezclas para el tratamiento de agua potable, evaluación de la eficiencia, un absorbente sobre agentes tóxicos, para optimizar la adición de coagulantes y polielectrolitos para el tratamiento de aguas residuales y potables, es ideal para dosificación de mezclas y excelente para pruebas de campo por su poco peso.
 
     .row.justify-content-center.mb-5
       .col-lg-4
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-27.png" style="width: 400px")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-27.png" style="width: 400px" data-aos="fade-right")
       .col-lg-8.ps-lg-3
         p.mb-4 El test de jarras es un equipo que ofrece una serie de características y funcionalidades destacadas. A continuación, se detallan sus principales aspectos:
         ul.lista-ul--color
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Control de velocidad tipo P.I.D lazo cerrado.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Transmisión de movimiento por piñón, igual velocidad en todas las aspas.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Programación manual y automática de muy fácil operación, de baja a alta velocidad y viceversa.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Visualización de velocidad en LCD, control digital por teclado.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Nivel de presión +- 1 r.p.m.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Ciclo de trabajo programable (0-99 minutos, 59 seg) y alarma de terminación ciclo.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Lámpara fluorescente de 60 watts.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Altura libre para vaso de prueba 22 cm.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Aspas de acero inoxidable, altura fácil de graduar.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Estructura construida en poliestireno de 1⁄4, lo que le permite tener alta resistencia mecánica y térmica.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Línea de voltaje 120 AC, fusible de 1,5 amp.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | Excelente para pruebas de campo por su poco peso de tan solo 9 kg.
           li.d-flex
-            i.fas.fa-check
+            i.fas.fa-check(data-aos="fade-right")
             | No contiene partes que se puedan oxidar, ideal para ambientes cálidos y húmedos.
           
     .row.justify-content-center.mb-5(style="background-color: #FFECD5; margin: 0 -3rem; padding: 0 2.5rem")
-      .col-lg-8.pt-lg-4.order-2.order-lg-1
+      .col-lg-8.pt-lg-4.order-2.order-lg-1(data-aos="fade-right")
         p.fw-bold.mb-4 Para operar el test de jarras, es importante tener en cuenta las siguientes recomendaciones:
         p La máquina funciona con corriente eléctrica. La operación incorrecta podría provocar una descarga eléctrica, electrocución o una explosión.
 
@@ -454,21 +454,21 @@
 
         p Al operar o reparar esta máquina, es importante utilizar gafas de seguridad como medida de protección.
       .col-lg-4.order-1.order-lg-2
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-28.svg" style="width: 400px")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-28.svg" style="width: 400px" data-aos="fade-left")
 
-    p.mb-5 Estas medidas de seguridad deben seguirse rigurosamente para garantizar la integridad del operador y prevenir posibles accidentes durante la operación, mantenimiento o reparación de la máquina. A continuación, se invita a ver el siguiente vídeo. 
+    p.mb-5(data-aos="fade-right") Estas medidas de seguridad deben seguirse rigurosamente para garantizar la integridad del operador y prevenir posibles accidentes durante la operación, mantenimiento o reparación de la máquina. A continuación, se invita a ver el siguiente vídeo. 
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-right")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .titulo-edit.mb-5
+    .titulo-edit.mb-5(data-aos="fade-left")
       h3 Turbidímetro
     
     .row.justify-content-center.mb-5
       .col-lg-4
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-29.png" style="width: 400px")
-      .col-lg-8.ps-lg-4
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-29.png" style="width: 400px" data-aos="fade-right")
+      .col-lg-8.ps-lg-4(data-aos="fade-left")
         p Es un equipo que se caracteriza por su capacidad de realizar mediciones turbidimétricas utilizando la relación entre una señal primaria nefelométrica de luz dispersa (90°) y la señal de luz dispersa transmitida; para llevar a cabo la transmisión de la luz, utiliza una lámpara de filamento de tungsteno que permite obtener una longitud de onda de 860 nm.
 
         p El rango de medición normal es entre 0 y 1000 NTU; sin embargo, cuando hay aguas residuales que exceden los 1000 NTU, se pueden hacer las diluciones que sean necesarias para que el valor final esté dentro del rango de medición del equipo; cuando el equipo entrega el resultado, este valor se deberá multiplicar por el número en el cual se hizo la dilución.
@@ -476,7 +476,7 @@
         p Con el fin de garantizar una medición precisa, se recomienda operar el equipo entre 0 a 50 °C y en una humedad relativa entre 0 y 90 %. Temperaturas mayores o una humedad relativa mayor pueden afectar la atmósfera en la cual el haz de luz se desplaza y generar error en la medición final de la turbidez.
     
 
-    p.mb-5 Los turbidímetros normalmente cuentan con una pantalla donde se entrega información relacionada con el equipo y con las mediciones realizadas, y un teclado que cuenta con las descripciones de las siguientes teclas: ver figura 4.
+    p.mb-5(data-aos="fade-right") Los turbidímetros normalmente cuentan con una pantalla donde se entrega información relacionada con el equipo y con las mediciones realizadas, y un teclado que cuenta con las descripciones de las siguientes teclas: ver figura 4.
 
 
     .titulo-sexto.color-acento-contenido.d-block
@@ -485,33 +485,33 @@
     .p-3.p-lg-4.mb-1(style="background-color: #DBEFFC")
       .row.align-items-center.col-xxl-10.mx-auto
         .col-lg-6.ps-lg-4
-          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-30.jpg" style="width: 523px")
+          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-30.jpg" style="width: 523px" data-aos="fade-right")
         .col-lg-6.mb-4.mb-lg-auto
           table.tabla-edit.tabla-edit-1
             tr
-              td 1
-              td <b>Tecla de CONFIGURACIONES:</b> selecciona las opciones del menú para configurar el medidor.
+              td(data-aos="fade-right") 1
+              td(data-aos="fade-left") <b>Tecla de CONFIGURACIONES:</b> selecciona las opciones del menú para configurar el medidor.
             tr
-              td 2
-              td <b>Tecla CALIBRACIÓN:</b> muestra la pantalla de calibración, inicia la calibración, selecciona las opciones de calibración.
+              td(data-aos="fade-right") 2
+              td(data-aos="fade-left") <b>Tecla CALIBRACIÓN:</b> muestra la pantalla de calibración, inicia la calibración, selecciona las opciones de calibración.
             tr
-              td 3
-              td <b>Tecla ABAJO:</b> se desplaza por los menús, ingresa números y letras.
+              td(data-aos="fade-right") 3
+              td(data-aos="fade-left") <b>Tecla ABAJO:</b> se desplaza por los menús, ingresa números y letras.
             tr
-              td 4
-              td <b>Tecla IZQUIERDA (contextual):</b> accede a la verificación de calibración, cancela o sale de la pantalla del menú actual y pasa a la pantalla del menú anterior.
+              td(data-aos="fade-right") 4
+              td(data-aos="fade-left") <b>Tecla IZQUIERDA (contextual):</b> accede a la verificación de calibración, cancela o sale de la pantalla del menú actual y pasa a la pantalla del menú anterior.
             tr
-              td 5
-              td <b>Tecla ARRIBA:</b> se desplaza por los menús, ingresa números y letras.
+              td(data-aos="fade-right") 5
+              td(data-aos="fade-left") <b>Tecla ARRIBA:</b> se desplaza por los menús, ingresa números y letras.
             tr
-              td 6
-              td <b>Tecla DERECHA (contextual):</b> lee la muestra de turbidez, selecciona o confirma opciones, abre/salta a los submenús.
+              td(data-aos="fade-right") 6
+              td(data-aos="fade-left") <b>Tecla DERECHA (contextual):</b> lee la muestra de turbidez, selecciona o confirma opciones, abre/salta a los submenús.
             tr
-              td 7
-              td <b>Tecla GESTIÓN DE DATOS:</b> visualiza, borra o transfiere los datos guardados.
+              td(data-aos="fade-right") 7
+              td(data-aos="fade-left") <b>Tecla GESTIÓN DE DATOS:</b> visualiza, borra o transfiere los datos guardados.
     p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomada de Hach (2017, p.8).
 
-    p.mb-5 La pantalla de medición muestra la turbidez, unidad, estado de calibración, fecha y hora, ID del usuario (si se configuró) y el ID de la muestra (si se configuró). ver figura 5
+    p.mb-5(data-aos="fade-right") La pantalla de medición muestra la turbidez, unidad, estado de calibración, fecha y hora, ID del usuario (si se configuró) y el ID de la muestra (si se configuró). ver figura 5
 
     .titulo-sexto.color-acento-contenido.d-block
       h5 Figura 5
@@ -519,43 +519,43 @@
     .p-3.p-lg-4.mb-1(style="background-color: #DBEFFC")
       .row.align-items-center
         .col-lg-5.ps-lg-4
-          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-31.svg" style="width: 505px")
+          img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-31.svg" style="width: 505px" data-aos="fade-right")
         .col-lg-6.mb-4.mb-lg-auto
           table.tabla-edit
             tr
-              td <b>1</b> Identificación del usuario.
-              td <b>9</b> NTU (Unidades nefelométricas de turbidez) o FNU (Unidades de turbidez de formazina).
+              td(data-aos="fade-right") <b>1</b> Identificación del usuario.
+              td(data-aos="fade-left") <b>9</b> NTU (Unidades nefelométricas de turbidez) o FNU (Unidades de turbidez de formazina).
             tr
-              td <b>2</b> Identificación de la muestra.
-              td <b>10 Modo de medición:</b> rapidly.
+              td(data-aos="fade-right") <b>2</b> Identificación de la muestra.
+              td(data-aos="fade-left") <b>10 Modo de medición:</b> rapidly.
                 br
                 Settling Turbidity (ícono de blanco).
             tr
-              td <b>3</b> Indicador de estabilidad o bloqueo de pantalla.
-              td <b>11 Modo de medición:</b> promedio de señal (ícono de X-barra).
+              td(data-aos="fade-right") <b>3</b> Indicador de estabilidad o bloqueo de pantalla.
+              td(data-aos="fade-left") <b>11 Modo de medición:</b> promedio de señal (ícono de X-barra).
             tr
-              td <b>4</b> Indicador del estado de calibración. (Calibración OK= correcta).
-              td <b>12</b> Tiempo.
+              td(data-aos="fade-right") <b>4</b> Indicador del estado de calibración. (Calibración OK= correcta).
+              td(data-aos="fade-left") <b>12</b> Tiempo.
             tr
-              td <b>5</b> Indicador del estado de calibración. (Calibración?= incorrecta).
-              td <b>13</b> Fecha.
+              td(data-aos="fade-right") <b>5</b> Indicador del estado de calibración. (Calibración?= incorrecta).
+              td(data-aos="fade-left") <b>13</b> Fecha.
             tr
-              td <b>6</b> Parámetro.
-              td <b>14 Medición (contextual:</b> OK, Seleccionar).
+              td(data-aos="fade-right") <b>6</b> Parámetro.
+              td(data-aos="fade-left") <b>14 Medición (contextual:</b> OK, Seleccionar).
             tr
-              td <b>7</b> Ícono de alimentación de CA.
-              td <b>15</b> Opciones (contextual).
+              td(data-aos="fade-right") <b>7</b> Ícono de alimentación de CA.
+              td(data-aos="fade-left") <b>15</b> Opciones (contextual).
             tr
-              td <b>8</b> Ícono de batería.
-              td <b>16</b> Calibración de verificación.
+              td(data-aos="fade-right") <b>8</b> Ícono de batería.
+              td(data-aos="fade-left") <b>16</b> Calibración de verificación.
     p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomada de Hach (2017, p.9).
 
     .cajon.color-acento-contenido.p-4.col-lg-10.col-xl-8.mx-auto.mb-5
       p.mb-0(data-aos="fade-left") Es importante que el usuario comprenda que la turbidez se refiere a la cantidad de partículas suspendidas en un líquido, lo cual afecta su transparencia y claridad visual. El turbidímetro es un dispositivo especialmente diseñado para medir esta turbidez y proporcionar resultados cuantitativos.
 
-    p.mb-5 A continuación, se describirá el procedimiento básico para llevar a cabo una medición de turbidez:
+    p.mb-5(data-aos="fade-right") A continuación, se describirá el procedimiento básico para llevar a cabo una medición de turbidez:
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
       .tarjeta.p-4(style="background-color: #FFE2C0")
         .row.justify-content-center.mb-3
           .col-10
@@ -599,52 +599,52 @@
         p.text-center Pulsar la tecla medición. La pantalla muestra un mensaje que dice que está estabilizando y luego la turbidez en NTU (FNU). El resultado se muestra y se guarda automáticamente.
 
     .row.justify-content-center.mb-5
-      .col-lg-8.ps-lg-4
+      .col-lg-8.ps-lg-4(data-aos="fade-right")
         p La calibración del equipo se realiza a partir de muestras con una turbidez determinada, se hace una correlación lineal entre la medición obtenida y la medición esperada; si el coeficiente de correlación es superior a 0,99, se puede trabajar con el equipo.
 
         p Para una mayor precisión, se debe utilizar la misma cubeta de muestra o cuatro cubetas de muestras emparejadas para todas las lecturas durante la calibración.
 
         p La cubeta de muestra debe ser insertada en su compartimento, de manera que la marca de orientación o el diamante coincida con la marca de orientación en relieve en la parte frontal del compartimento de la cubeta. A continuación, se presenta el siguiente recurso para consultar la calibración del turbidímetro con los estándares StablCal y obtener resultados precisos:
       .col-lg-4
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-32.png" style="width: 400px")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-32.png" style="width: 400px" data-aos="fade-left")
     
     .row.mb-5
       .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
-        .tarjeta.tarjeta-edit-01
+        .tarjeta.tarjeta-edit-01(data-aos="fade-right")
           span.number-card 1
           .img-border
             img(src="@/assets/curso/temas/tema1/img-c-1.svg" style="width: 95px")
           p.mb-0.text-center Pulse la tecla CALIBRACIÓN para entrar al modo de Calibración, siga las instrucciones en la pantalla. Nota: Invierta suavemente cada estándar antes de insertarlo.
 
       .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
-        .tarjeta.tarjeta-edit-01
+        .tarjeta.tarjeta-edit-01(data-aos="zoom-in")
           span.number-card 2
           .img-border
             img(src="@/assets/curso/temas/tema1/img-c-2.svg" style="width: 95px")
           p.mb-0.text-center Inserte el estándar para 20 NTU y coloque la tapa. Nota: el estándar a ser insertado aparece en el display en un recuadro.
       .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
-        .tarjeta.tarjeta-edit-01
+        .tarjeta.tarjeta-edit-01(data-aos="fade-left")
           span.number-card 3
           .img-border
             img(src="@/assets/curso/temas/tema1/img-c-3.svg" style="width: 95px")
           p.mb-0.text-center Pulse Medición, la pantalla muestra Estabilizando y luego muestra el resultado.
 
       .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
-        .tarjeta.tarjeta-edit-01
+        .tarjeta.tarjeta-edit-01(data-aos="fade-right")
           span.number-card 4
           .img-border
             img(src="@/assets/curso/temas/tema1/img-c-4.svg" style="width: 95px")
           p.mb-0.text-center Repita los pasos 2 y 3 con el estándar para 100 NTU y 800 NTU. Nota: pulse “hecho” para completar una calibración de 2 puntos.
       
       .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
-        .tarjeta.tarjeta-edit-01
+        .tarjeta.tarjeta-edit-01(data-aos="zoom-in")
           span.number-card 5
           .img-border
             img(src="@/assets/curso/temas/tema1/img-c-5.svg" style="width: 95px")
           p.mb-0.text-center Pulse “Hecho” para revisar los detalles de la calibración.
       
       .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
-        .tarjeta.tarjeta-edit-01
+        .tarjeta.tarjeta-edit-01(data-aos="fade-left")
           span.number-card 6
           .img-border
             img(src="@/assets/curso/temas/tema1/img-c-6.svg" style="width: 95px")
@@ -652,8 +652,8 @@
 
 
     .tarjeta.d-flex.col-xxl-10.mx-auto.p-4.py-xl-0.ps-xl-0.position-relative(style="background: linear-gradient(0deg, rgba(77,177,240,1) 0%, rgba(48,118,182,1) 100%);")
-      img.position-absolute.d-none.d-xl-flex(src="@/assets/curso/temas/tema1/img-33.png" style="width: 238px; left: -1.5rem; bottom: 0")
-      .col-xl-9.ms-xl-auto.py-xl-5
+      img.position-absolute.d-none.d-xl-flex(src="@/assets/curso/temas/tema1/img-33.png" style="width: 238px; left: -1.5rem; bottom: 0" data-aos="fade-right")
+      .col-xl-9.ms-xl-auto.py-xl-5(data-aos="fade-left")
         p.fw-bold.text-white Con el fin de conocer más equipos utilizados en el laboratorio para la determinación de parámetros en aguas residuales, se invita a consultar:
         ul.mb-0
           li.d-flex.flex-wrap.flex-md-nowrap
