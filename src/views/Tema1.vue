@@ -208,7 +208,7 @@
             .col-8
               img.mx-auto(src='@/assets/curso/temas/tema1/img-15.png' style="max-width: 146px" alt='Vaso de precipitado')
           h3 Morteros: 
-          p son contenedores cóncavos con base plana, diseñados para moler y triturar, cuentan con gran resistencia mecánica, por lo que se pueden pulverizar sólidos sobre él sin la preocupación de una ruptura.
+          p Son contenedores cóncavos con base plana, diseñados para moler y triturar, cuentan con gran resistencia mecánica, por lo que se pueden pulverizar sólidos sobre él sin la preocupación de una ruptura.
 
     .titulo-edit.mb-5(data-aos="fade-left")
       h3 Materiales de metal
@@ -326,23 +326,23 @@
         .col-lg-6.mb-4.mb-lg-auto
           table.tabla-edit
             tr
-              td(data-aos="fade-right") <b>1 ON/OFF:</b> encendido o apagado del medidor.
+              td(data-aos="fade-right") <b>1 on/off:</b> encendido o apagado del medidor.
             tr
-              td(data-aos="fade-right") <b>2 ID DE USUARIO:</b> datos asociados con una persona.
+              td(data-aos="fade-right") <b>2 id de usuario:</b> datos asociados con una persona.
             tr
-              td(data-aos="fade-right") <b>3 ILUMINACIÓN:</b> iluminación de la pantalla de visualización.
+              td(data-aos="fade-right") <b>3 iluminación:</b> iluminación de la pantalla de visualización.
             tr
-              td(data-aos="fade-right") <b>4 ID MUESTRA MANUAL:</b> datos asociados con una ubicación de muestra.
+              td(data-aos="fade-right") <b>4 id muestra manual:</b> datos asociados con una ubicación de muestra.
             tr
-              td(data-aos="fade-right") <b>5 TECLA AZUL/IZQUIERDA:</b> selección de opciones de menú.
+              td(data-aos="fade-right") <b>5 tecla azul/izquierda:</b> selección de opciones de menú.
             tr
-              td(data-aos="fade-right") <b>6 TECLAS ARRIBA y ABAJO:</b> desplazamiento por los menús, introducción de números y letras o cambio de la pantalla de visualización de lecturas.
+              td(data-aos="fade-right") <b>6 teclas arriba y abajo:</b> desplazamiento por los menús, introducción de números y letras o cambio de la pantalla de visualización de lecturas.
             tr
-              td(data-aos="fade-right") <b>7 TECLA VERDE/DERECHA:</b> selección de opciones de menú.
+              td(data-aos="fade-right") <b>7 tecla verde/derecha:</b> selección de opciones de menú.
             tr
-              td(data-aos="fade-right") <b>8 REGISTRO DE DATOS:</b> para abrir o transferir datos almacenados.
+              td(data-aos="fade-right") <b>8 registro de datos:</b> para abrir o transferir datos almacenados.
             tr
-              td(data-aos="fade-right") <b>9 OPCIONES DEL MEDIDOR:</b> cambio de la configuración, ejecución de comprobaciones estándar, visualización de información del medidor.
+              td(data-aos="fade-right") <b>9 opciones del medidor:</b> cambio de la configuración, ejecución de comprobaciones estándar, visualización de información del medidor.
         .col-lg-6.ps-lg-4
           img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-24.svg" style="width: 523px" data-aos="fade-left")
     p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomado de Hach (2017, p. 9).
@@ -456,11 +456,7 @@
       .col-lg-4.order-1.order-lg-2
         img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-28.svg" style="width: 400px" data-aos="fade-left")
 
-    p.mb-5(data-aos="fade-right") Estas medidas de seguridad deben seguirse rigurosamente para garantizar la integridad del operador y prevenir posibles accidentes durante la operación, mantenimiento o reparación de la máquina. A continuación, se invita a ver el siguiente vídeo. 
-
-    figure.mb-5(data-aos="fade-right")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mb-5(data-aos="fade-right") Estas medidas de seguridad deben seguirse rigurosamente para garantizar la integridad del operador y prevenir posibles accidentes durante la operación, mantenimiento o reparación de la máquina.
 
     .titulo-edit.mb-5(data-aos="fade-left")
       h3 Turbidímetro
@@ -490,28 +486,28 @@
           table.tabla-edit.tabla-edit-1
             tr
               td(data-aos="fade-right") 1
-              td(data-aos="fade-left") <b>Tecla de CONFIGURACIONES:</b> selecciona las opciones del menú para configurar el medidor.
+              td(data-aos="fade-left") <b>Tecla de configuraciones:</b> selecciona las opciones del menú para configurar el medidor.
             tr
               td(data-aos="fade-right") 2
-              td(data-aos="fade-left") <b>Tecla CALIBRACIÓN:</b> muestra la pantalla de calibración, inicia la calibración, selecciona las opciones de calibración.
+              td(data-aos="fade-left") <b>Tecla calibración:</b> muestra la pantalla de calibración, inicia la calibración, selecciona las opciones de calibración.
             tr
               td(data-aos="fade-right") 3
-              td(data-aos="fade-left") <b>Tecla ABAJO:</b> se desplaza por los menús, ingresa números y letras.
+              td(data-aos="fade-left") <b>Tecla abajo:</b> se desplaza por los menús, ingresa números y letras.
             tr
               td(data-aos="fade-right") 4
-              td(data-aos="fade-left") <b>Tecla IZQUIERDA (contextual):</b> accede a la verificación de calibración, cancela o sale de la pantalla del menú actual y pasa a la pantalla del menú anterior.
+              td(data-aos="fade-left") <b>Tecla izquierda (contextual):</b> accede a la verificación de calibración, cancela o sale de la pantalla del menú actual y pasa a la pantalla del menú anterior.
             tr
               td(data-aos="fade-right") 5
-              td(data-aos="fade-left") <b>Tecla ARRIBA:</b> se desplaza por los menús, ingresa números y letras.
+              td(data-aos="fade-left") <b>Tecla arriba:</b> se desplaza por los menús, ingresa números y letras.
             tr
               td(data-aos="fade-right") 6
-              td(data-aos="fade-left") <b>Tecla DERECHA (contextual):</b> lee la muestra de turbidez, selecciona o confirma opciones, abre/salta a los submenús.
+              td(data-aos="fade-left") <b>Tecla derecha (contextual):</b> lee la muestra de turbidez, selecciona o confirma opciones, abre/salta a los submenús.
             tr
               td(data-aos="fade-right") 7
-              td(data-aos="fade-left") <b>Tecla GESTIÓN DE DATOS:</b> visualiza, borra o transfiere los datos guardados.
+              td(data-aos="fade-left") <b>Tecla gestión de datos:</b> visualiza, borra o transfiere los datos guardados.
     p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomada de Hach (2017, p.8).
 
-    p.mb-5(data-aos="fade-right") La pantalla de medición muestra la turbidez, unidad, estado de calibración, fecha y hora, ID del usuario (si se configuró) y el ID de la muestra (si se configuró). ver figura 5
+    p.mb-5(data-aos="fade-right") La pantalla de medición muestra la turbidez, unidad, estado de calibración, fecha y hora, ID del usuario (si se configuró) y el ID de la muestra (si se configuró). Ver figura 5
 
     .titulo-sexto.color-acento-contenido.d-block
       h5 Figura 5
@@ -614,7 +610,7 @@
           span.number-card 1
           .img-border
             img(src="@/assets/curso/temas/tema1/img-c-1.svg" style="width: 95px")
-          p.mb-0.text-center Pulse la tecla CALIBRACIÓN para entrar al modo de Calibración, siga las instrucciones en la pantalla. Nota: Invierta suavemente cada estándar antes de insertarlo.
+          p.mb-0.text-center Pulse la tecla calibración para entrar al modo de Calibración, siga las instrucciones en la pantalla. Nota: Invierta suavemente cada estándar antes de insertarlo.
 
       .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
         .tarjeta.tarjeta-edit-01(data-aos="zoom-in")

@@ -11,8 +11,6 @@
       img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema2/img-1.svg" style="width: 85px" data-aos="fade-right")
       p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") Comprobar que los tratamientos seleccionados para el agua residual son los correctos y están siendo eficientes en comparación con lo exigido por la normatividad legal vigente es una actividad que debe ser desarrollada periódicamente, con el fin de garantizar que se cumple con los parámetros establecidos y así no tener impactos negativos sobre el medio ambiente, la salud, o económicos por causa de multas y sanciones por incumplimiento.
 
-    p.mb-5(data-aos="fade-right") A continuación, se hace una descripción de tres elementos importantes en el seguimiento y ejecución de los protocolos de laboratorio:
-
     .titulo-segundo.color-acento-botones
       h2#t_2_1 2.1 Programas de monitoreo de agua residual
     
@@ -22,8 +20,6 @@
         br
         br
         |Los muestreos se hacen con mayor frecuencia en las industrias prioritarias, y al azar en las de poco interés. De este modo, se optimiza el uso de los recursos técnicos y humanos disponibles para el control. En cualquier caso, para la realización de caracterizaciones industriales, se deben seguir los procedimientos establecidos por el Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) para identificación, manejo de muestras y realización de muestreos. Es importante verificar que los laboratorios que realizan las caracterizaciones estén debidamente acreditados ante esa institución. 
-
-    p.mb-5(data-aos="fade-right") Dentro de las etapas para definir o llevar a cabo un programa de monitoreo de agua residual, se encuentran las que se muestran en la siguiente figura:
 
     .titulo-sexto.color-acento-contenido.d-block
       h5 Figura 6
@@ -36,7 +32,7 @@
     p.mb-5(data-aos="fade-right") En el contexto de la implementación de un programa de monitoreo de agua residual, se requiere seguir un conjunto de etapas clave para su definición y ejecución adecuada. A continuación, se menciona cada una de ellas.
 
     .titulo-edit.mb-5(data-aos="fade-left")
-      h3 Características del punto de muestreo.
+      h3 Características del punto de muestreo
     
     .row.justify-content-center.mb-5
       .col-lg-8.ps-lg-4(data-aos="fade-right")
@@ -49,7 +45,7 @@
 
     figure.mb-5(data-aos="fade-right")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/dbILZFf8-80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .titulo-edit.mb-5(data-aos="fade-left")
       h3 Tipos de muestras
@@ -57,7 +53,7 @@
     PasosA.color-acento-contenido.col-lg-10.col-xl-8.mx-auto.mb-5(tipo="n")
       .row
         .col-md-8.mb-4.mb-md-0.order-2.order-md-1(data-aos="fade-right")
-          h5 Muestra simple:
+          h5 Muestra simple
           p Representa la composición del agua en un tiempo y lugar específicos, asumiendo que la composición se mantiene constante en el tiempo y no hay cambios en la concentración espacial. Se utiliza para determinar las características de descargas instantáneas, identificar la fuente y evaluar los posibles efectos en los procesos de tratamiento.
         .col-md-4.order-1.order-md-2.mb-4.mb-md-auto
           figure
@@ -68,13 +64,13 @@
           figure
             img.mx-auto(src='@/assets/curso/temas/tema2/img-6.png' alt='Muestra compuesta' style="max-width: 190px" data-aos="fade-right")
         .col-md-8(data-aos="fade-left")
-          h5 Muestra compuesta:
-          p es una mezcla de muestras instantáneas recolectadas en el mismo punto en diferentes momentos, sin considerar el caudal. Se miden parámetros como DBO5, sólidos suspendidos, DQO, fósforo, aceites, grasas y nitrógeno total Kjeldahl. Se utiliza una metodología de aforo, como molinetes, métodos volumétricos, vertederos o equipos electrónicos de aforo.
+          h5 Muestra compuesta
+          p Es una mezcla de muestras instantáneas recolectadas en el mismo punto en diferentes momentos, sin considerar el caudal. Se miden parámetros como DBO5, sólidos suspendidos, DQO, fósforo, aceites, grasas y nitrógeno total Kjeldahl. Se utiliza una metodología de aforo, como molinetes, métodos volumétricos, vertederos o equipos electrónicos de aforo.
       
       .row
         .col-md-8.mb-4.mb-md-0.order-2.order-md-1(data-aos="fade-right")
-          h5 Muestra integrada:
-          p implica analizar múltiples muestras instantáneas o simples tomadas simultáneamente en diferentes puntos, considerando proporcionalmente los caudales. Se utiliza para caracterizar el caudal de un río y para tratamientos combinados de diversas corrientes de aguas residuales.
+          h5 Muestra integrada
+          p Implica analizar múltiples muestras instantáneas o simples tomadas simultáneamente en diferentes puntos, considerando proporcionalmente los caudales. Se utiliza para caracterizar el caudal de un río y para tratamientos combinados de diversas corrientes de aguas residuales.
         .col-md-4.order-1.order-md-2.mb-4.mb-md-auto
           figure
             img.mx-auto(src='@/assets/curso/temas/tema2/img-7.png' alt='Muestra integrada' style="max-width: 190px" data-aos="fade-left")
@@ -129,11 +125,11 @@
     p.mb-5(data-aos="fade-right") Después de definir el tipo de muestra requerido y los parámetros de cadena de custodia, se debe buscar el método para el muestreo que sea adecuado para la caracterización del agua residual; para ello, se presenta una tabla resumen de los métodos: 
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Tabla 1
+      h5 Tabla 1.
       span.mb-0 Métodos de muestreo
 
     .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
-      table
+      table(style="min-width: 1000px")
         thead
           tr
             th.text-center Método de muestreo
@@ -158,9 +154,9 @@
     .d-flex.flex-wrap.align-items-center.mb-5
       img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-9.png' alt='Texto que describa la imagen' style="max-width: 400px" data-aos="fade-right")
       .col-lg-8.ps-md-4(data-aos="fade-left")
-        p De acuerdo con el Ministerio de Desarrollo Económico (2000), en su documento Reglamento técnico del sector de Agua potable y Saneamiento básico RAS - 2000. Título - E Tratamiento de aguas residuales, los procedimientos de cadena de custodia que deben ser definidos y tenidos en cuenta son:
+        p De acuerdo con el Ministerio de Desarrollo Económico (2000), en su documento Reglamento técnico del sector de Agua potable y Saneamiento básico RAS - 2000. Título - E Tratamiento de aguas residuales
         .cajon.color-primario.p-4.mb-3(style="background-color: #FFECD5")
-          p.mb-0.fw-bold(data-aos="fade-left") <em>“las muestras obtenidas en campo deben constituirse en una representación precisa del material del que se está haciendo el muestreo; por tal razón, deben ser obtenidas, conservadas, transportadas y almacenadas de manera que, cuando lleguen al laboratorio, todavía sean representativas del material existente en el campo” (p. 24).</em>
+          p.mb-0.fw-bold(data-aos="fade-left") <em>“Las muestras obtenidas en campo deben constituirse en una representación precisa del material del que se está haciendo el muestreo; por tal razón, deben ser obtenidas, conservadas, transportadas y almacenadas de manera que, cuando lleguen al laboratorio, todavía sean representativas del material existente en el campo” (p. 24).</em>
         p.mb-0 El objeto de la preservación es retardar los cambios químicos y biológicos que inevitablemente se dan después de recolectada la muestra, y así minimizar el potencial de volatilización o biodegradación entre el muestreo y el análisis de la muestra, retardar la acción biológica, retardar la hidrólisis de compuestos y complejos químicos, y retardar la volatilización de los constituyentes. 
 
     p.mb-5(data-aos="fade-right") Dentro de los métodos de preservación se encuentran:
@@ -242,7 +238,7 @@
     p.mb-5(data-aos="fade-right") Teniendo en cuenta el tipo de parámetro a analizar, se deben contemplar los protocolos y procedimientos adecuados para tal fin; para ello, en la siguiente tabla, se presentan de manera resumida los parámetros que se deben considerar para analizar la muestra:
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Tabla 2
+      h5 Tabla 2.
       span.mb-0 Parámetros mínimos a medir de acuerdo con el nivel de complejidad del sistema de tratamiento
 
     .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
@@ -317,7 +313,7 @@
             td.text-center X
             td.text-center X
           tr
-            td NITRÓGENO
+            td Nitrógeno
             td.text-center 
             td.text-center
             td.text-center
@@ -377,7 +373,7 @@
             td.text-center
             td.text-center
           tr
-            td FOSFORO TOTAL
+            td Fosforo total
             td.text-center 
             td.text-center
             td.text-center
@@ -395,25 +391,25 @@
             td.text-center X
             td.text-center X
           tr
-            td CLORUROS
+            td Cloruros
             td.text-center 
             td.text-center
             td.text-center X
             td.text-center X
           tr
-            td ALCALINIDAD
+            td Alcalinidad
             td.text-center 
             td.text-center
             td.text-center
             td.text-center X
           tr
-            td ACEITES Y GRASAS
+            td Aceites y grasas
             td.text-center 
             td.text-center
             td.text-center X
             td.text-center X
           tr
-            td COLIFORMES
+            td Coliformes
             td.text-center 
             td.text-center
             td.text-center
@@ -437,22 +433,22 @@
             td.text-center X
             td.text-center X
           tr
-            td ACIDEZ
+            td Acidez
             td.text-center X 
             td.text-center X
             td.text-center X
             td.text-center X
           tr
-            td DETERGENTES
+            td Detergentes
             td.text-center 
             td.text-center
             td.text-center X
             td.text-center X
-    p.mb-5(data-aos="fade-right") Teniendo en cuenta el tipo de parámetro a analizar, se deben contemplar los protocolos y procedimientos adecuados para tal fin; para ello, en la siguiente tabla, se presentan de manera resumida los parámetros que se deben considerar para analizar la muestra:
+    p.mb-5(data-aos="fade-right") Teniendo en cuenta los parámetros requeridos por el nivel de complejidad y por la normatividad legal vigente, se deben identificar todas las condiciones necesarias que deben ser tenidas en cuenta. A continuación, se presenta un cuadro resumen de los parámetros más importantes:
 
     
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Tabla 3
+      h5 Tabla 3.
       span.mb-0 Condiciones necesarias para los parámetros más relevantes a caracterizar en las muestras
     
     .tabla-a.color-acento-contenido.mb-5(data-aos="fade-left")
@@ -572,10 +568,10 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8.ps-lg-4(data-aos="fade-right")
-        p Una de las variables más importantes de determinar en las aguas residuales son los parámetros microbiológicos, de acuerdo con la Resolución 0631 (2015); para los vertimientos puntuales de aguas residuales, tanto domésticas como no domésticas, se deben reportar los  “ valores de la concentración en Número Más Probable (NMP/100mL) de los Coliformes Termotolerantes presentes en los vertimientos puntuales de aguas residuales (ARD y ARND), mediante las cuales se gestionan excretas humanas y/o de animales a cuerpos de aguas superficiales, cuando la carga másica en las aguas residuales antes del sistema de tratamiento es mayor a 125,00 Kg/día de DBO5” (p.4). Es decir, debe existir una relación entre los reportes de los parámetros fisicoquímicos y microbiológicos.
+        p Una de las variables más importantes de determinar en las aguas residuales son los parámetros microbiológicos, de acuerdo con la Resolución 0631 (2015); para los vertimientos puntuales de aguas residuales, tanto domésticas como no domésticas, se deben reportar los  “valores de la concentración en Número Más Probable (NMP/100 mL) de los Coliformes Termotolerantes presentes en los vertimientos puntuales de aguas residuales (ARD y ARND), mediante las cuales se gestionan excretas humanas y/o de animales a cuerpos de aguas superficiales, cuando la carga másica en las aguas residuales antes del sistema de tratamiento es mayor a 125,00 Kg/día de DBO5” (p.4). Es decir, debe existir una relación entre los reportes de los parámetros fisicoquímicos y microbiológicos.
       .col-lg-4
         img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-12.png" style="width: 400px" data-aos="fade-left")
-    p.mb-5(data-aos="fade-right") Para realizar los análisis de laboratorio correspondientes, puede consultar el siguiente Recurso:
+    p.mb-5(data-aos="fade-right") Para realizar los análisis de laboratorio correspondientes, puede consultar el siguiente recurso:
 
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
@@ -687,8 +683,8 @@
 
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Tabla 4
-      span.mb-0 Microorganismos indicadores de calidad en aguas residuales.
+      h5 Tabla 4.
+      span.mb-0 Microorganismos indicadores de calidad en aguas residuales
     
     .tabla-a.color-acento-contenido.mb-5.tabla-b.col-xl-10.mx-auto(data-aos="fade-left")
       table
@@ -745,11 +741,7 @@
         p(data-aos="fade-left") Para el caso de Colombia, la norma de vertimientos, Resolución 0631 de 2015, que regula el control de las sustancias contaminantes que llegan a los cuerpos de agua vertidas por 73 actividades productivas presentes en ocho sectores económicos del país, no estipula límites para parámetros microbiológicos. Sin embargo, esta norma solicita que se analice y reporte la concentración de coliformes totales termotolerantes presentes en los vertimientos puntuales de aguas residuales, en las cuales se gestionan excretas de humanos o animales a cuerpos de aguas superficiales, cuando la carga de DBO5 del agua residual antes del tratamiento sea de 125,00 Kg/día. El reporte de la concentración coliformes termotolerantes se debe hacer en términos de número más probable de Coliformes en 100 ml de agua (NMP/100 ml).
         .cajon.color-primario.p-4.mb-3(style="background-color: #FFECD5")
           p.mb-0(data-aos="fade-left") El Decreto 1076 de 2015 (Decreto 3930 de 2010) promueve el reuso de las aguas residuales a través de los Planes de Reconversión a Tecnologías Limpias en Gestión de Vertimientos (PRTLGV) y lo incluye en la gradualidad para el cumplimiento de la norma de vertimientos. Sin embargo, en este decreto no se especifican claramente los parámetros microbiológicos requeridos para el reuso de las aguas residuales.
-    p.mb-5(data-aos="fade-right") Aunque la legislación colombiana no menciona las características microbiológicas ni los límites permisibles para estos parámetros en aguas residuales para el reuso, algunos textos técnicos y lineamientos de la Organización Mundial de la Salud (OMS) sí han estimado dichos límites. 
-
-    figure(data-aos="fade-right")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p(data-aos="fade-right") Aunque la legislación colombiana no menciona las características microbiológicas ni los límites permisibles para estos parámetros en aguas residuales para el reuso, algunos textos técnicos y lineamientos de la Organización Mundial de la Salud (OMS) sí han estimado dichos límites. 
 
 </template>
 
