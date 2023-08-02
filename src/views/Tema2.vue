@@ -8,14 +8,14 @@
       h1 Análisis de muestras
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema2/img-1.svg" style="width: 85px" data-aos="fade-right")
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema2/img-1.svg" style="width: 85px" data-aos="fade-right" alt="Imagen decorativa")
       p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") Comprobar que los tratamientos seleccionados para el agua residual son los correctos y están siendo eficientes en comparación con lo exigido por la normatividad legal vigente es una actividad que debe ser desarrollada periódicamente, con el fin de garantizar que se cumple con los parámetros establecidos y así no tener impactos negativos sobre el medio ambiente, la salud, o económicos por causa de multas y sanciones por incumplimiento.
 
     .titulo-segundo.color-acento-botones
       h2#t_2_1 2.1 Programas de monitoreo de agua residual
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-2.png' alt='Texto que describa la imagen' style="max-width: 400px" data-aos="fade-right")
+      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-2.png' alt='Imagen decorativa' style="max-width: 400px" data-aos="fade-right")
       p.mb-0.col-lg-8.ps-md-4(data-aos="fade-left") Para asegurar el cumplimiento de las normas, es necesario disponer de un programa de control basado en la toma y análisis de muestras aleatorias. Se considera apropiado establecer una frecuencia diferencial de las visitas de control por parte de la autoridad ambiental y una exigencia a las industrias de reportes de la calidad de los vertimientos de acuerdo con la carga contaminante.
         br
         br
@@ -26,7 +26,7 @@
       span.mb-0 Etapas de monitoreo de agua residual
     .col-lg-10.col-xl-8.mx-auto
       .p-3.p-lg-5.mb-1(style="background-color: #DBEFFC")
-        img.mx-auto(src="@/assets/curso/temas/tema2/img-3.svg" style="width: 505px" data-aos="fade-right")
+        img.mx-auto(src="@/assets/curso/temas/tema2/img-3.svg" style="width: 505px" data-aos="fade-right" alt="Figura 6. describe las etapas de monitoreo de agua residual que son: características del punto de muestreo. Tipos de muestras. Cadena de custodia. Métodos de muestreo. Preservación de la muestra.")
       p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomado de Hach (2017, p. 12).
 
     p.mb-5(data-aos="fade-right") En el contexto de la implementación de un programa de monitoreo de agua residual, se requiere seguir un conjunto de etapas clave para su definición y ejecución adecuada. A continuación, se menciona cada una de ellas.
@@ -41,7 +41,7 @@
           br
           |Lo más importante es, en lo posible, que se realice la toma de la muestra del agua residual antes de un tratamiento y después del mismo, para corroborar que el sistema propuesto está siendo eficiente en su funcionamiento. Se invita a ver el siguiente video donde exploraremos las características de la separación de líneas de agua, así como la caja de aforo y muestreo:
       .col-lg-4
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-4.png" style="width: 400px" data-aos="fade-left")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-4.png" style="width: 400px" data-aos="fade-left" alt="Imagen decorativa")
 
     figure.mb-5(data-aos="fade-right")
       .video
@@ -79,11 +79,11 @@
       h3 Cadena de custodia
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema2/img-1.svg" style="width: 85px" data-aos="fade-right")
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema2/img-1.svg" style="width: 85px" data-aos="fade-right" alt="Imagen decorativa")
       p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") Hace referencia al seguimiento que se le debe hacer a la muestra desde el alistamiento del material y la toma de la muestra hasta el análisis y reporte de datos. De acuerdo con el Ministerio de Desarrollo Económico (2000), en su documento Reglamento técnico del sector de Agua potable y Saneamiento básico RAS - 2000. Título - E Tratamiento de aguas residuales, los procedimientos de cadena de custodia que deben ser definidos y tenidos en cuenta son:
 
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5.align-items-center
-      img.mb-4.mb-xl-auto.mx-auto.position-relative(src="@/assets/curso/temas/tema2/img-8.png" style="width: 400px" data-aos="fade-right")
+      img.mb-4.mb-xl-auto.mx-auto.position-relative(src="@/assets/curso/temas/tema2/img-8.png" style="width: 400px" data-aos="fade-right" alt="Imagen decorativa")
       .tarjeta-decorador-2.col-xl
         .col-lg-10.mx-auto(data-aos="fade-left")
           p.mb-4.fw-bold Procedimientos de cadena de custodia 
@@ -152,7 +152,7 @@
       h3 Preservación de la muestra
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-9.png' alt='Texto que describa la imagen' style="max-width: 400px" data-aos="fade-right")
+      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-9.png' alt="Imagen decorativa" style="max-width: 400px" data-aos="fade-right")
       .col-lg-8.ps-md-4(data-aos="fade-left")
         p De acuerdo con el Ministerio de Desarrollo Económico (2000), en su documento Reglamento técnico del sector de Agua potable y Saneamiento básico RAS - 2000. Título - E Tratamiento de aguas residuales
         .cajon.color-primario.p-4.mb-3(style="background-color: #FFECD5")
@@ -191,40 +191,40 @@
     ImagenInfografica.color-primario.info-edit-1(data-aos="fade-left")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/tema2/img-10.jpg' alt='')
+          img(src='@/assets/curso/temas/tema2/img-10.jpg' alt="Imagen decorativa")
 
       .tarjeta.tarjeta-info-edit.color-primario.p-4.px-md-5(x="9%" y="70%" numero="1")
-        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-1.jpg' alt='' style="max-width: 142px")
+        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-1.jpg' alt="Imagen decorativa" style="max-width: 142px")
         span.number-card 1
         .content-card.col-lg.ps-lg-4
           .h5.mb-2 (NTC) 6151 (2015)
           p La Norma Técnica Colombiana (NTC) 6151 (2015), generada por el Instituto Colombiano de Normas Técnicas (Icontec), la cual es una guía para la planificación de muestreo de agua con objeto de análisis microbiológico, brindando directrices desde los recipientes para muestras hasta el procedimiento de muestreo y transporte.
       .tarjeta.tarjeta-info-edit.color-primario.p-4.px-md-5(x="26%" y="70%" numero="2")
-        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-2.jpg' alt='' style="max-width: 142px")
+        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-2.jpg' alt="Imagen decorativa" style="max-width: 142px")
         span.number-card 2
         .content-card.col-lg.ps-lg-4
           .h5.mb-2 (NTC) 5667-1 (2010)
           p La Norma Técnica Colombiana (NTC) 5667-1 (2010), norma de calidad de agua, que brinda las directrices para el diseño de programas y técnicas de muestreo.
       .tarjeta.tarjeta-info-edit.color-primario.p-4.px-md-5(x="40%" y="70%" numero="3")
-        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-3.jpg' alt='' style="max-width: 142px")
+        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-3.jpg' alt="Imagen decorativa" style="max-width: 142px")
         span.number-card 3
         .content-card.col-lg.ps-lg-4
           .h5.mb-2 (NTC) 5667-3 (2004)
           p La Norma Técnica Colombiana (NTC) 5667-3 (2004), norma de calidad de agua, que brinda directrices para la preservación y el manejo de las muestras.
       .tarjeta.tarjeta-info-edit.color-primario.p-4.px-md-5(x="60%" y="70%" numero="4")
-        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-4.jpg' alt='' style="max-width: 142px")
+        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-4.jpg' alt="Imagen decorativa" style="max-width: 142px")
         span.number-card 4
         .content-card.col-lg.ps-lg-4
           .h5.mb-2 (NTC) 5667-3 (2000)
           p La Norma Técnica Colombiana (NTC) 5667-3 (2000), norma de calidad de agua, que brinda directrices para el ensayo biológico de muestras, en especial, para procesos de investigación donde se quiera determinar ensayos de toxicidad o biodegradación. 
       .tarjeta.tarjeta-info-edit.color-primario.p-4.px-md-5(x="77%" y="70%" numero="5")
-        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-5.jpg' alt='' style="max-width: 142px")
+        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-5.jpg' alt="Imagen decorativa" style="max-width: 142px")
         span.number-card 5
         .content-card.col-lg.ps-lg-4
           .h5.mb-2 (NTC) 5667- 13 (1998)
           p La Norma Técnica Colombiana (NTC) 5667- 13 (1998), norma de calidad de agua, la cual es una guía para el muestreo de lodos en aguas residuales y plantas de tratamiento de aguas.
       .tarjeta.tarjeta-info-edit.color-primario.p-4.px-md-5(x="94%" y="70%" numero="6")
-        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-6.jpg' alt='' style="max-width: 142px")
+        img.mb-4.mb-lg-auto(src='@/assets/curso/temas/tema2/if-6.jpg' alt="Imagen decorativa" style="max-width: 142px")
         span.number-card 6
         .content-card.col-lg.ps-lg-4
           .h5.mb-2 (NTC) 5667- 13 (1995)
@@ -559,7 +559,7 @@
       h3 Consideraciones para los ensayos microbiológicos.
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-11.png' alt='Texto que describa la imagen' style="max-width: 400px" data-aos="fade-right")
+      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-11.png' alt="Imagen decorativa" style="max-width: 400px" data-aos="fade-right")
       .col-lg-8.ps-md-4
         p(data-aos="fade-left") Los microorganismos son seres microscópicos capaces de habitar diferentes ambientes, dentro de los cuales se encuentra el agua; es por ello que, en ríos, lagos y océanos, la presencia microbiana está asegurada y es diversa; dentro de esta variedad, se encuentran bacterias, virus, hongos y protozoarios patógenos, es decir, microorganismos que pueden causar enfermedades a partir del consumo o contacto con esta agua.
         .cajon.color-primario.p-4.mb-3(style="background-color: #FFECD5")
@@ -570,13 +570,13 @@
       .col-lg-8.ps-lg-4(data-aos="fade-right")
         p Una de las variables más importantes de determinar en las aguas residuales son los parámetros microbiológicos, de acuerdo con la Resolución 0631 (2015); para los vertimientos puntuales de aguas residuales, tanto domésticas como no domésticas, se deben reportar los  “valores de la concentración en Número Más Probable (NMP/100 mL) de los Coliformes Termotolerantes presentes en los vertimientos puntuales de aguas residuales (ARD y ARND), mediante las cuales se gestionan excretas humanas y/o de animales a cuerpos de aguas superficiales, cuando la carga másica en las aguas residuales antes del sistema de tratamiento es mayor a 125,00 Kg/día de DBO5” (p.4). Es decir, debe existir una relación entre los reportes de los parámetros fisicoquímicos y microbiológicos.
       .col-lg-4
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-12.png" style="width: 400px" data-aos="fade-left")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-12.png" style="width: 400px" data-aos="fade-left" alt="Imagen decorativa")
     p.mb-5(data-aos="fade-right") Para realizar los análisis de laboratorio correspondientes, puede consultar el siguiente recurso:
 
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-1.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-1.png' alt='Práctica de laboratorio determinación de sólidos totales, volátiles y fijos.')
         .container-download-tarjeta
           h4 Práctica de laboratorio determinación de sólidos totales, volátiles y fijos.
           .col-sm-auto
@@ -585,7 +585,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-2.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-2.png' alt='Práctica de laboratorio determinación de alcalinidad.')
         .container-download-tarjeta
           h4 Práctica de laboratorio determinación de alcalinidad.
           .col-sm-auto
@@ -594,7 +594,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-3.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-3.png' alt='Determinación de cloruros.')
         .container-download-tarjeta
           h4 Determinación de cloruros.
           .col-sm-auto
@@ -603,7 +603,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-4.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-4.png' alt='Determinación de dureza total.  ')
         .container-download-tarjeta
           h4 Determinación de dureza total.  
           .col-sm-auto
@@ -612,7 +612,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-5.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-5.png' alt='Sulfatos en agua por el método nefelométrico.')
         .container-download-tarjeta
           h4 Sulfatos en agua por el método nefelométrico.
           .col-sm-auto
@@ -621,7 +621,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-6.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-6.png' alt='Determinación de oxígeno disuelto.')
         .container-download-tarjeta
           h4 Determinación de oxígeno disuelto. 
           .col-sm-auto
@@ -630,7 +630,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-7.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-7.png' alt='Determinación de la demanda química de oxígeno método espectrofotométrico.')
         .container-download-tarjeta
           h4 Determinación de la demanda química de oxígeno método espectrofotométrico.
           .col-sm-auto
@@ -639,7 +639,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
 
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-8.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-8.png' alt='Demanda bioquímica de oxígeno 5 días.')
         .container-download-tarjeta
           h4 Demanda bioquímica de oxígeno 5 días.
           .col-sm-auto
@@ -648,7 +648,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-9.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-9.png' alt='Instructivo para la determinación del ensayo test de jarras.')
         .container-download-tarjeta
           h4 Instructivo para la determinación del ensayo test de jarras.
           .col-sm-auto
@@ -657,7 +657,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-10.png' alt='Muestra')
+        img(src='@/assets/curso/temas/tema2/img-sl-10.png' alt='Práctica de laboratorio determinación de coliformes y e.coli  en aguas residuales mediante  tubos de fermentación (nmp).')
         .container-download-tarjeta
           h4 Práctica de laboratorio determinación de coliformes y e.coli  en aguas residuales mediante  tubos de fermentación (nmp).
           .col-sm-auto
@@ -669,7 +669,7 @@
       h3 Reutilización de las aguas residuales
     
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-13.png' alt='Texto que describa la imagen' style="max-width: 400px" data-aos="fade-right")
+      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-13.png' alt="Imagen decorativa" style="max-width: 400px" data-aos="fade-right")
       .col-lg-8.ps-md-4(data-aos="fade-left")
         p Actualmente, la reutilización de las aguas residuales en la agricultura, acuicultura y recarga de aguas subterráneas se ha convertido en una estrategia para abordar el problema de la escasez de las aguas dulces, debido al crecimiento demográfico, a la urbanización y al cambio climático. Asimismo, las aguas residuales, en algunos casos, pueden constituir el único recurso hídrico de las comunidades que subsisten por medio de la agricultura. Aunque la utilización de aguas residuales en la agricultura puede aportar beneficios, a su vez, representa un riesgo para la salud humana. Por ello, es necesario realizar controles estrictos a nivel microbiológico para disminuir los riesgos de salud pública que pueda traer este tipo de prácticas. Es así como el cumplimiento de ciertos límites y parámetros microbiológicos es fundamental para considerar la reutilización del agua tratada.
     
@@ -677,7 +677,7 @@
       .col-lg-8.ps-lg-4(data-aos="fade-right")
         p Teniendo en cuenta que la diversidad microbiana en las aguas residuales es alta, puede ser difícil determinar la presencia de todos estos microorganismos; es por ello por lo que normalmente se establecen unos indicadores microbiológicos específicos para su determinación. Dentro de esos indicadores, los más utilizados son los coliformes totales y los coliformes fecales, dentro de los que se encuentra E. coli, pero, de acuerdo con expertos, este indicador no sería suficiente para determinar la calidad de las aguas residuales tratadas, debido a que, por ejemplo, la determinación de E.coli solo refleja la calidad bacteriana del agua, dejando de lado otros patógenos como virus y protozoos.
       .col-lg-4
-        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-14.png" style="width: 400px" data-aos="fade-left")
+        img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-14.png" style="width: 400px" data-aos="fade-left" alt="Imagen decorativa")
 
     p.mb-5(data-aos="fade-right") A continuación, se muestran los microorganismos que pueden ser utilizados como indicadores de calidad en las aguas residuales y para reutilización, mostrándose lo que indica cada microorganismo y hacia dónde se enfocan las investigaciones para asegurar una detección rápida: ver tabla 4
 
@@ -736,7 +736,7 @@
     p.mb-5(data-aos="fade-right") Para controlar la calidad del agua residual, los estándares y la legislación normalmente especifican límites sobre parámetros fisicoquímicos como pH, temperatura, DBO, DQO, sólidos suspendidos, entre otros; pero para el caso de indicadores microbiológicos, estos estándares no especifican límites, debido a la presencia asegurada de una concentración alta de microorganismos en este tipo de aguas. 
 
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-15.png' alt='Texto que describa la imagen' style="max-width: 400px" data-aos="fade-right")
+      img.mb-4.mb-lg-auto.col-lg-4.mx-auto(src='@/assets/curso/temas/tema2/img-15.png' alt="Imagen decorativa" style="max-width: 400px" data-aos="fade-right")
       .col-lg-8.ps-md-4
         p(data-aos="fade-left") Para el caso de Colombia, la norma de vertimientos, Resolución 0631 de 2015, que regula el control de las sustancias contaminantes que llegan a los cuerpos de agua vertidas por 73 actividades productivas presentes en ocho sectores económicos del país, no estipula límites para parámetros microbiológicos. Sin embargo, esta norma solicita que se analice y reporte la concentración de coliformes totales termotolerantes presentes en los vertimientos puntuales de aguas residuales, en las cuales se gestionan excretas de humanos o animales a cuerpos de aguas superficiales, cuando la carga de DBO5 del agua residual antes del tratamiento sea de 125,00 Kg/día. El reporte de la concentración coliformes termotolerantes se debe hacer en términos de número más probable de Coliformes en 100 ml de agua (NMP/100 ml).
         .cajon.color-primario.p-4.mb-3(style="background-color: #FFECD5")

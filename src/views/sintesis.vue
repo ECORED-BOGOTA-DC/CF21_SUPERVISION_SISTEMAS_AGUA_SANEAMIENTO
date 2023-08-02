@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis: Describe a través de un mapa conceptual los temas vistos en el componente formativo, indicando la importancia de seguir adecuadamente los protocolos de laboratorio al realizar un análisis de las muestras de agua residuales, el manejo adecuado de estos protocolos permite garantizar los resultados y el análisis de las muestras tiene la finalidad de obtener información relevante sobre los componentes y propiedades del agua.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
