@@ -22,7 +22,7 @@
         |Los muestreos se hacen con mayor frecuencia en las industrias prioritarias, y al azar en las de poco interés. De este modo, se optimiza el uso de los recursos técnicos y humanos disponibles para el control. En cualquier caso, para la realización de caracterizaciones industriales, se deben seguir los procedimientos establecidos por el Instituto de Hidrología, Meteorología y Estudios Ambientales (Ideam) para identificación, manejo de muestras y realización de muestreos. Es importante verificar que los laboratorios que realizan las caracterizaciones estén debidamente acreditados ante esa institución. 
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Figura 6
+      h5 Figura 6.
       span.mb-0 Etapas de monitoreo de agua residual
     .col-lg-10.col-xl-8.mx-auto
       .p-3.p-lg-5.mb-1(style="background-color: #DBEFFC")

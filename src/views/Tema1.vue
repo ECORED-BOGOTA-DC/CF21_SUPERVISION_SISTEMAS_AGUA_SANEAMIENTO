@@ -7,7 +7,7 @@
         span 1
       h1 Protocolos de laboratorio
     .d-flex.flex-wrap.align-items-center.mb-5
-      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-1.svg" style="width: 85px" data-aos="fade-right")
+      img.mb-4.mb-sm-auto(src="@/assets/curso/temas/tema1/img-1.svg" style="width: 85px" data-aos="fade-right" alt="Imagen decorativa")
       p.col-sm.ps-sm-4.mb-0(data-aos="fade-left") Monitorear las aguas residuales es un proceso que involucra diversos aspectos y fases, entre las cuales se destacan los protocolos de laboratorio. Estos procedimientos deben ser  implementados con el fin de garantizar la ejecución de todas las acciones necesarias para obtener resultados en cuanto a las características de las aguas residuales, y que permitan la toma de decisiones.
     p.mb-5(data-aos="fade-right") A continuación, se hace una descripción de tres elementos importantes en el seguimiento y ejecución de los protocolos de laboratorio:
 
@@ -301,7 +301,7 @@
     p.mb-5(data-aos="fade-right") La siguiente figura destaca tres elementos clave: <b>el puerto de conexión de la sonda (número 1), el puerto del adaptador USB/CC (número 2) y el puerto de conexión de la sonda (número 3).</b> Estos puertos permiten una conexión rápida y sencilla de las sondas correspondientes al multiparámetro: ver figura 1
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Figura 1
+      h5 Figura 1.
       span.mb-0 Conexión de sondas en multiparámetro
     .p-3.mb-1(style="background-color: #DBEFFC")
       .row.col-xl-10.mx-auto.align-items-center
@@ -319,7 +319,7 @@
     p.mb-5(data-aos="fade-right") El teclado del multiparámetro es una herramienta fundamental que permite una interacción fácil y eficiente con el dispositivo. A continuación, se presenta una breve descripción de las diferentes teclas y funciones que ofrece:
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Figura 2
+      h5 Figura 2.
       span.mb-0 Teclas del multiparámetro.
     .p-3.p-lg-4.mb-1(style="background-color: #DBEFFC")
       .row.align-items-center
@@ -350,7 +350,7 @@
     p.mb-5(data-aos="fade-right") Una vez las sondas están correctamente conectadas, la pantalla del medidor muestra la última concentración medida, unidades, temperatura, el estado de calibración, ID del operador, ID de la muestra, la fecha y la hora, como se muestra en la figura 3: 
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Figura 3
+      h5 Figura 3.
       span.mb-0 Pantalla multiparámetros
     .p-3.mb-1(style="background-color: #DBEFFC")
       .row.align-items-center.col-xl-10.mx-auto
@@ -476,7 +476,7 @@
 
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Figura 4
+      h5 Figura 4.
       span.mb-0 Esquema turbidímetro
     .p-3.p-lg-4.mb-1(style="background-color: #DBEFFC")
       .row.align-items-center.col-xxl-10.mx-auto
@@ -510,7 +510,7 @@
     p.mb-5(data-aos="fade-right") La pantalla de medición muestra la turbidez, unidad, estado de calibración, fecha y hora, ID del usuario (si se configuró) y el ID de la muestra (si se configuró). Ver figura 5
 
     .titulo-sexto.color-acento-contenido.d-block
-      h5 Figura 5
+      h5 Figura 5.
       span.mb-0 Pantalla turbidímetro
     .p-3.p-lg-4.mb-1(style="background-color: #DBEFFC")
       .row.align-items-center
