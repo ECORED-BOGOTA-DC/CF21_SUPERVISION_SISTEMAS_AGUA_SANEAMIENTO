@@ -50,6 +50,8 @@
     .titulo-edit.mb-5(data-aos="fade-left")
       h3 Tipos de muestras
     
+    p.mb-5 La primera fase de desarrollo del plan de muestreo es tener la muestra para analizar; esta muestra puede ser tomada de varias formas, dentro de las cuales se destacan:
+
     PasosA.color-acento-contenido.col-lg-10.col-xl-8.mx-auto.mb-5(tipo="n")
       .row
         .col-md-8.mb-4.mb-md-0.order-2.order-md-1(data-aos="fade-right")
@@ -373,7 +375,7 @@
             td.text-center
             td.text-center
           tr
-            td Fosforo total
+            td Fósforo total
             td.text-center 
             td.text-center
             td.text-center
@@ -444,7 +446,7 @@
             td.text-center
             td.text-center X
             td.text-center X
-    p.mb-5(data-aos="fade-right") Teniendo en cuenta los parámetros requeridos por el nivel de complejidad y por la normatividad legal vigente, se deben identificar todas las condiciones necesarias que deben ser tenidas en cuenta. A continuación, se presenta un cuadro resumen de los parámetros más importantes:
+    p.mb-5(data-aos="fade-right") Teniendo en cuenta el tipo de parámetro a analizar, se deben contemplar los protocolos y procedimientos adecuados para tal fin; para ello, en la siguiente tabla, se presentan de manera resumida los parámetros que se deben considerar para analizar la muestra:
 
     
     .titulo-sexto.color-acento-contenido.d-block
@@ -484,29 +486,29 @@
             td.fw-bold DQO
             td.text-center P, V
             td.text-center 100
-            td.text-center Analizar tan pronto como sea posible o adicionar H2SO4 a pH < 2 ; refrigerar
+            td.text-center Analizar tan pronto como sea posible o adicionar H2SO4 a pH < 2; refrigerar
             td.text-center 7 d / 28 días 
           tr
             td.fw-bold Color
-            td.text-center P,V
+            td.text-center P, V
             td.text-center 500
             td.text-center Refrigerar
             td.text-center 48 h / 48 h 
           tr
             td.fw-bold Conductividad
-            td.text-center P,V
+            td.text-center P, V
             td.text-center 500
             td.text-center Refrigerar
             td.text-center 28 d / 28 días
           tr
             td.fw-bold Dureza
-            td.text-center P,V
+            td.text-center P, V
             td.text-center 100
             td.text-center Adicionar HNO3 a pH< 2 
             td.text-center 6 meses/ 6 meses
           tr
             td.fw-bold Nitratos + Nitritos
-            td.text-center P,V
+            td.text-center P, V
             td.text-center 200
             td.text-center Adicionar H2S04; refrigerar. Analizar tan pronto como sea posible, refrigerar. 
             td.text-center ninguna / 28 días
@@ -529,7 +531,7 @@
             td.text-center V, botella de DBO 
             td.text-center 300
             td.text-center Analizar inmediatamente. La titulación puede ser retrasada después de la acidificación.
-            td.text-center 8h / 8 h 
+            td.text-center 8 h / 8 h 
           tr
             td.fw-bold Ozono
             td.text-center V
@@ -538,19 +540,19 @@
             td.text-center 0.5 h / N.S
           tr
             td.fw-bold pH 
-            td.text-center P,V
+            td.text-center P, V
             td.text-center -
             td.text-center Analizar inmediatamente.
             td.text-center 2 h / N.S 
           tr
             td.fw-bold Sólidos
-            td.text-center P,V
+            td.text-center P, V
             td.text-center -
             td.text-center Refrigerar.
             td.text-center 7 días
           tr
             td.fw-bold Turbidez 
-            td.text-center P,V
+            td.text-center P, V
             td.text-center -
             td.text-center Analizar el mismo día.
             td.text-center 24 h / 48 h
@@ -576,27 +578,27 @@
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-1.png' alt='Práctica de laboratorio determinación de sólidos totales, volátiles y fijos.')
+        img(src='@/assets/curso/temas/tema2/img-sl-1.png' alt='Determinación de solidos suspendidostotales, volátiles y fijos.')
         .container-download-tarjeta
-          h4 Práctica de laboratorio determinación de sólidos totales, volátiles y fijos.
+          h4 Determinación de solidos suspendidostotales, volátiles y fijos.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_2_DETERMINACION_DE_SOLIDOS_TOTALES_VOLATILES_Y_FIJOS.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-2.png' alt='Práctica de laboratorio determinación de alcalinidad.')
+        img(src='@/assets/curso/temas/tema2/img-sl-2.png' alt='Procedimiento para la determinación de alcalinidad.')
         .container-download-tarjeta
-          h4 Práctica de laboratorio determinación de alcalinidad.
+          h4 Procedimiento para la determinación de alcalinidad.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_3_DETERMINACION_DE_ALCALINIDAD_EN_AGUA.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-3.png' alt='Determinación de cloruros.')
+        img(src='@/assets/curso/temas/tema2/img-sl-3.png' alt='Procedimiento para la determinación de cloruros en agua.')
         .container-download-tarjeta
-          h4 Determinación de cloruros.
+          h4 Procedimiento para la determinación de cloruros en agua.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_4_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -621,9 +623,9 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-6.png' alt='Determinación de oxígeno disuelto.')
+        img(src='@/assets/curso/temas/tema2/img-sl-6.png' alt='Procedimiento para la determinación de alcalinidad.')
         .container-download-tarjeta
-          h4 Determinación de oxígeno disuelto. 
+          h4 Procedimiento para la determinación de alcalinidad.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_7_DETERMINACION_DE_OD_EN_AGUA.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -701,7 +703,7 @@
             td.fw-bold Coliformes totales. 
             td.text-center Indicador Bacteriano.
             td.text-center -
-            td.text-center No se suele utilizer.
+            td.text-center No se suele utilizar.
           tr
             td.fw-bold Coliformes fecales /E. Coli. 
             td.text-center Indicador Fecal.
@@ -710,18 +712,18 @@
           tr
             td.fw-bold Bacteriófagos. 
             td.text-center Indicador fecal.
-            td.text-center indicador más apropiado.
+            td.text-center Indicador más apropiado.
             td.text-center Somáticos, Especies F, y Baterioides fragilis HSP40 y fagos RYC2056.
           tr
             td.fw-bold Recuento de Bacterias. 
             td.text-center Indicador de aeróbicos, bacterias heterotróficas.
             td.text-center Cantidad de ADN/ARN.
-            td.text-center No se recupera más del 10%.
+            td.text-center No se recupera más del 10 %.
           tr
             td.fw-bold Huevos de nematode. 
             td.text-center Indicador de nematodos y helmintos.
             td.text-center Métodos de concentración mejores (viabilidad).
-            td.text-center No se recupera más del 70%.
+            td.text-center No se recupera más del 70 %.
           tr
             td.fw-bold Giardia Lamblia. 
             td.text-center Detección directa de quistes.

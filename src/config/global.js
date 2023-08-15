@@ -136,16 +136,14 @@ export default {
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales [Ideam]. (2007). <em>Demanda bioquímica de oxígeno 5 días, Incubación y Electrometría.</em>',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1IG9iyTerV-OZFm6BiSb2eiknzr_eTlzt/view',
+      descarga: './downloads/LAB_9_Demanda_Bioquimica_de_Oxigeno.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales [Ideam]. (2007). <em>Sulfatos en agua por el método nefelométrico.</em>',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1DXe2ENHp_oM0DiJr97OuukQ9N2FL11dX/view',
+      descarga: './downloads/LAB_6_Sulfato_en_agua_por_Nefelometria_SG.pdf',
     },
     {
       tema: 'Protocolos de laboratorio',
@@ -160,88 +158,81 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2018). <em>Manual para el uso del termorreactor ECO 25.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Manual',
-      link:
-        'https://drive.google.com/file/d/1LiQi4wHYBak4u-AJTFdt-WFDI5hNbJbg/view',
+      descarga: './downloads/ME17_TERMOREACTOR--FORMATO-SENA.pdf',
     },
     {
       tema: 'Protocolos de laboratorio',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2017). <em>Manual para uso del equipo cabina de extracción control superior CS-EO1200.</em> Centro de Gestión Industrial [CGI].',
       tipo: 'Manual',
-      link:
-        'https://drive.google.com/file/d/1TnAnTBl5aKnKRhlXMftwDCnqORhJcN3C/view',
+      descarga:
+        './downloads/ME04_CABINA_EXTRACCION_CONTROL_SUPERIOR_EC_1200_S_FORMATO_SENA.pdf',
     },
     {
       tema: 'Protocolos de laboratorio',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2017). <em>Manual para uso del equipo MRC balanza de precisión BWLC 1-A2-C2.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Manual',
-      link:
-        'https://drive.google.com/file/d/1OxTCOISVXz0hdS1KeR2WCzZHJyoNAMh-/view',
+      descarga:
+        './downloads/ME03_MRC_BALANZA_PRECISION_BWLC_1-A2-C2_FORMATO_SENA.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Práctica de laboratorio Determinación de potenciometría.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1956-RwbKHGYV-eJTh5o2S7-HEq_Kv5lM/view',
+      descarga: './downloads/LAB 1_DETERMINACION_DE_POTENCIOMETRIA.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Práctica de laboratorio Determinación de sólidos totales, volátiles y fijos.</em> Centro de Gestión Industrial[CGI]. ',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1MOTA7hai-dgavCrOmLI-FzrxhEyj5m7g/view?usp=sharing',
+      descarga:
+        './downloads/LAB_2_DETERMINACION_DE_SOLIDOS_TOTALES_VOLATILES_Y_FIJOS.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Práctica de laboratorio Procedimiento para la determinación de alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1HSfoZD47M34I5ASuCfGUpX6rwaOaamkl/view?usp=sharing',
+      descarga: './downloads/LAB_3_DETERMINACION_DE_ALCALINIDAD_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Procedimiento para la determinación de cloruros en agua.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1uMElBxpFGFYyI4r5iMIm09XeR0j2cIUX/view?usp=sharing',
+      descarga: './downloads/LAB_4_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Instructivo para la determinación de dureza total.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1svpyC8Yt7Nl15AuA6Myfh_kTob5Q2T6h/view?usp=sharing',
+      descarga: './downloads/LAB_5_DETERMINACION_DE_DUREZA_TOTAL.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Procedimiento para la determinación de oxígeno disuelto.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1qPphpj4faPjfAgXFUvNGkUp5P0YDf07_/view?usp=sharing',
+      descarga: './downloads/LAB_7_DETERMINACION_DE_OD_EN_AGUA.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Determinación de la demanda química de oxígeno Método espectrofotométrico, reflujo cerrado.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1sVB5gBlogSSEmEfMuujBITpjFBd8V7vv/view?usp=sharing',
+      descarga:
+        './downloads/LAB_8_DETERMINACION_DE_LA_DEMANDA_QUIMICA_DE_OXIGENO.pdf',
     },
     {
       tema: 'Análisis de muestras',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Instructivo para el ensayo de test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
-      link:
-        'https://drive.google.com/file/d/1TrMQ7MbGXhu6yZ1kzs2kgDbcxvdY9ku7/view?usp=sharing',
+      descarga: './downloads/LAB_12_TEST_DE_JARRAS.pdf',
     },
     {
       tema: 'Análisis de muestras',
@@ -296,7 +287,7 @@ export default {
     {
       termino: 'Vertimiento puntual directo al recurso hídrico',
       significado:
-        'es aquel vertimiento realizado en un punto fijo y directamente al recurso hídrico. (Decreto 1076 de 2015 Titulo 9, Capítulo 7.)',
+        'es aquel vertimiento realizado en un punto fijo y directamente al recurso hídrico. (Decreto 1076 de 2015 Título 9, Capítulo 7.)',
     },
     {
       termino: 'Vertimiento puntual indirecto al recurso hídrico',
@@ -322,7 +313,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio del Medio Ambiente (2002). <em>Guía ambiental formulación de planes de pretratamiento de efluentes industriales.</em>',
+        'Ministerio del Medio Ambiente (2002). <em>Guía ambiental para la formulación de planes de pretratamiento de efluentes industriales.</em>',
       link: 'http://hdl.handle.net/20.500.12324/18912',
     },
     {
@@ -333,25 +324,25 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Práctica de laboratorio determinación de sólidos totales, volátiles y fijos.</em> Centro de Gestión Industrial [CGI].',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Práctica de laboratorio determinación de sólidos suspendidos totales, volátiles y fijos.</em> Centro de Gestión Industrial [CGI].',
       link:
         'https://drive.google.com/file/d/1MOTA7hai-dgavCrOmLI-FzrxhEyj5m7g/view?usp=sharing',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Práctica de laboratorio determinación de alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Práctica de laboratorio procedimiento para la determinación de alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         'https://drive.google.com/file/d/1HSfoZD47M34I5ASuCfGUpX6rwaOaamkl/view?usp=sharing',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Determinación de cloruros.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Procedimiento para la determinación de cloruros en agua.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         'https://drive.google.com/file/d/1uMElBxpFGFYyI4r5iMIm09XeR0j2cIUX/view?usp=sharing',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Determinación de dureza total.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructor para la determinación de dureza total.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         'https://drive.google.com/file/d/1svpyC8Yt7Nl15AuA6Myfh_kTob5Q2T6h/view?usp=sharing',
     },
@@ -363,7 +354,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Determinación de oxígeno disuelto.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Procedimiento para la determinación de oxígeno disuelto.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         'https://drive.google.com/file/d/1qPphpj4faPjfAgXFUvNGkUp5P0YDf07_/view?usp=sharing',
     },
@@ -381,7 +372,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para la determinación del ensayo test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para el determinación del ensayo test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         'https://drive.google.com/file/d/1TrMQ7MbGXhu6yZ1kzs2kgDbcxvdY9ku7/view?usp=sharing',
     },
@@ -470,7 +461,7 @@ export default {
         },
         {
           nombre: 'Gloria Lida Alzáte Suarez',
-          cargo: 'Adecuación instruccional - 2023',
+          cargo: 'Adecuación instruccional',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

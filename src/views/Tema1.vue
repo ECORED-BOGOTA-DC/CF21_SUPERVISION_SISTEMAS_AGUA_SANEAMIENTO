@@ -294,7 +294,7 @@
           br
           |Se debe observar la pantalla del multiparámetro para asegurarse de que muestra la fecha y hora correctas. En caso de que no sea así, se recomienda consultar el manual del dispositivo para ajustar la configuración de fecha y hora.
         .cajon.color-acento-contenido.p-4.px-lg-5
-          p.mb-0(data-aos="fade-left") <em><b>Nota:</b></em> El sello de tiempo de las sondas se fija cuando se conecta por primera vez al medidor. Este sello de tiempo hace posible registrar la historia de la sonda y el tiempo en que se hacen mediciones.
+          p.mb-0(data-aos="fade-left") <em><b>Nota:</b></em> el sello de tiempo de las sondas se fija cuando se conecta por primera vez al medidor. Este sello de tiempo hace posible registrar la historia de la sonda y el tiempo en que se hacen mediciones.
       .col-lg-4.order-1.order-lg-2
         img.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-22.png" style="width: 400px" data-aos="fade-left" alt="Imagen decorativa")
 
@@ -326,23 +326,23 @@
         .col-lg-6.mb-4.mb-lg-auto
           table.tabla-edit
             tr
-              td(data-aos="fade-right") <b>1 on/off:</b> encendido o apagado del medidor.
+              td(data-aos="fade-right") <b>1 On/off:</b> encendido o apagado del medidor.
             tr
-              td(data-aos="fade-right") <b>2 id de usuario:</b> datos asociados con una persona.
+              td(data-aos="fade-right") <b>2 Id de usuario:</b> datos asociados con una persona.
             tr
-              td(data-aos="fade-right") <b>3 iluminación:</b> iluminación de la pantalla de visualización.
+              td(data-aos="fade-right") <b>3 Iluminación:</b> iluminación de la pantalla de visualización.
             tr
-              td(data-aos="fade-right") <b>4 id muestra manual:</b> datos asociados con una ubicación de muestra.
+              td(data-aos="fade-right") <b>4 Id muestra manual:</b> datos asociados con una ubicación de muestra.
             tr
-              td(data-aos="fade-right") <b>5 tecla azul/izquierda:</b> selección de opciones de menú.
+              td(data-aos="fade-right") <b>5 Tecla azul/izquierda:</b> selección de opciones de menú.
             tr
-              td(data-aos="fade-right") <b>6 teclas arriba y abajo:</b> desplazamiento por los menús, introducción de números y letras o cambio de la pantalla de visualización de lecturas.
+              td(data-aos="fade-right") <b>6 Teclas arriba y abajo:</b> desplazamiento por los menús, introducción de números y letras o cambio de la pantalla de visualización de lecturas.
             tr
-              td(data-aos="fade-right") <b>7 tecla verde/derecha:</b> selección de opciones de menú.
+              td(data-aos="fade-right") <b>7 Tecla verde/derecha:</b> selección de opciones de menú.
             tr
-              td(data-aos="fade-right") <b>8 registro de datos:</b> para abrir o transferir datos almacenados.
+              td(data-aos="fade-right") <b>8 Registro de datos:</b> para abrir o transferir datos almacenados.
             tr
-              td(data-aos="fade-right") <b>9 opciones del medidor:</b> cambio de la configuración, ejecución de comprobaciones estándar, visualización de información del medidor.
+              td(data-aos="fade-right") <b>9 Opciones del medidor:</b> cambio de la configuración, ejecución de comprobaciones estándar, visualización de información del medidor.
         .col-lg-6.ps-lg-4
           img.mb-4.mb-lg-auto.mx-auto.mx-lg-0(src="@/assets/curso/temas/tema1/img-24.svg" style="width: 523px" data-aos="fade-left" alt="Muestra las teclas del multiparámetro")
     p.px-3.py-2.mb-5(style="background-color: #EFEFEF") <b>Nota.</b> Tomado de Hach (2017, p. 9).
@@ -401,7 +401,7 @@
         ul.lista-ul--color
           li.d-flex
             i.fas.fa-check(data-aos="fade-right")
-            | Control de velocidad tipo P.I.D lazo cerrado.
+            | Control de velocidad tipo P.I.D. lazo cerrado.
           li.d-flex
             i.fas.fa-check(data-aos="fade-right")
             | Transmisión de movimiento por piñón, igual velocidad en todas las aspas.
@@ -444,7 +444,7 @@
         p.fw-bold.mb-4 Para operar el test de jarras, es importante tener en cuenta las siguientes recomendaciones:
         p La máquina funciona con corriente eléctrica. La operación incorrecta podría provocar una descarga eléctrica, electrocución o una explosión.
 
-        p El equipo está diseñado para funcionar con fuentes de alimentación de 115V / 60Hz. La conexión de otras fuentes de alimentación puede dañar la máquina. Es importante asegurarse de que la fuente de alimentación disponible coincida con los requisitos del dispositivo. Los motores no están protegidos contra explosiones.
+        p El equipo está diseñado para funcionar con fuentes de alimentación de 115 V / 60 Hz. La conexión de otras fuentes de alimentación puede dañar la máquina. Es importante asegurarse de que la fuente de alimentación disponible coincida con los requisitos del dispositivo. Los motores no están protegidos contra explosiones.
 
         p Siempre es necesario revisar el cableado eléctrico, las conexiones sueltas y verificar que el cableado no esté pellizcado o deshilachado.
 
@@ -610,7 +610,7 @@
           span.number-card 1
           .img-border
             img(src="@/assets/curso/temas/tema1/img-c-1.svg" style="width: 95px" alt="Imagen decorativa")
-          p.mb-0.text-center Pulse la tecla calibración para entrar al modo de Calibración, siga las instrucciones en la pantalla. Nota: Invierta suavemente cada estándar antes de insertarlo.
+          p.mb-0.text-center Pulse la tecla CALIBRACIÓN para entrar al modo de Calibración, siga las instrucciones en la pantalla. Nota: invierta suavemente cada estándar antes de insertarlo.
 
       .col-md-6.col-xl-4.p-2.p-xl-2.d-flex.justify-content-center
         .tarjeta.tarjeta-edit-01(data-aos="zoom-in")
