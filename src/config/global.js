@@ -342,7 +342,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructor para la determinación de dureza total.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para la determinación de dureza total.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         'https://drive.google.com/file/d/1svpyC8Yt7Nl15AuA6Myfh_kTob5Q2T6h/view?usp=sharing',
     },
@@ -354,7 +354,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Procedimiento para la determinación de oxígeno disuelto.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Procedimiento para la determinación de la alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         'https://drive.google.com/file/d/1qPphpj4faPjfAgXFUvNGkUp5P0YDf07_/view?usp=sharing',
     },
@@ -372,7 +372,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para el determinación del ensayo test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para el ensayo test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         'https://drive.google.com/file/d/1TrMQ7MbGXhu6yZ1kzs2kgDbcxvdY9ku7/view?usp=sharing',
     },
@@ -458,18 +458,6 @@ export default {
           nombre: 'Darío González',
           cargo: 'Corrector de Estilo',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Gloria Lida Alzáte Suarez',
-          cargo: 'Adecuación instruccional',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Metodología para la formación virtual',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },

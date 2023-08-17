@@ -578,7 +578,7 @@
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-left")
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-1.png' alt='Determinación de solidos suspendidostotales, volátiles y fijos.')
+        img(src='@/assets/curso/temas/tema2/img-sl-1.png' alt='Determinación de sólidos suspendidos totales, volátiles y fijos.')
         .container-download-tarjeta
           h4 Determinación de solidos suspendidostotales, volátiles y fijos.
           .col-sm-auto
@@ -623,11 +623,11 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-6.png' alt='Procedimiento para la determinación de alcalinidad.')
+        img(src='@/assets/curso/temas/tema2/img-sl-6.png' alt='Determinación de la demanda química de oxígeno método espectrofotométrico.')
         .container-download-tarjeta
-          h4 Procedimiento para la determinación de alcalinidad.
+          h4 Determinación de la demanda química de oxígeno método espectrofotométrico.
           .col-sm-auto
-            a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_7_DETERMINACION_DE_OD_EN_AGUA.pdf')" target="_blank" style="min-width: ")
+            a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_8_DETERMINACION_DE_LA_DEMANDA_QUIMICA_DE_OXIGENO.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
@@ -650,7 +650,7 @@
               img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
       
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-9.png' alt='Instructivo para la determinación del ensayo test de jarras.')
+        img(src='@/assets/curso/temas/tema2/img-sl-9.png' alt='Instructivo para el ensayo test de jarras.')
         .container-download-tarjeta
           h4 Instructivo para la determinación del ensayo test de jarras.
           .col-sm-auto
