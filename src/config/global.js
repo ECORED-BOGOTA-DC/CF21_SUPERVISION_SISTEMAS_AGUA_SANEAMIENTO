@@ -116,7 +116,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/921200_CF21_DU.pdf',
+        download: 'downloads/anexos.zip',
       },
       {
         icono: 'fas fa-download',
@@ -325,62 +325,55 @@ export default {
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Práctica de laboratorio determinación de sólidos suspendidos totales, volátiles y fijos.</em> Centro de Gestión Industrial [CGI].',
-      link:
-        'https://drive.google.com/file/d/1MOTA7hai-dgavCrOmLI-FzrxhEyj5m7g/view?usp=sharing',
+      descarga:
+        '/downloads/LAB_2_DETERMINACION_DE_SOLIDOS_TOTALES_VOLATILES_Y_FIJOS.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Práctica de laboratorio procedimiento para la determinación de alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
-      link:
-        'https://drive.google.com/file/d/1HSfoZD47M34I5ASuCfGUpX6rwaOaamkl/view?usp=sharing',
+      link: '/downloads/LAB_3_DETERMINACION_DE_ALCALINIDAD_EN_AGUA.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Procedimiento para la determinación de cloruros en agua.</em> Centro de Gestión Industrial [CGI]. ',
-      link:
-        'https://drive.google.com/file/d/1uMElBxpFGFYyI4r5iMIm09XeR0j2cIUX/view?usp=sharing',
+      link: '/downloads/LAB_4_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para la determinación de dureza total.</em> Centro de Gestión Industrial [CGI]. ',
-      link:
-        'https://drive.google.com/file/d/1svpyC8Yt7Nl15AuA6Myfh_kTob5Q2T6h/view?usp=sharing',
+      link: '/downloads/LAB_5_DETERMINACION_DE_DUREZA_TOTAL.pdf',
     },
     {
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales [IDEAM]. 2007. <em>Sulfatos en agua por el método nefelométrico.</em>',
-      link:
-        'https://drive.google.com/file/d/1DXe2ENHp_oM0DiJr97OuukQ9N2FL11dX/view?usp=sharing',
+      link: '/downloads/LAB_6_Sulfato_en_agua_por_Nefelometria_SG.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Procedimiento para la determinación de la alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
-      link:
-        'https://drive.google.com/file/d/1qPphpj4faPjfAgXFUvNGkUp5P0YDf07_/view?usp=sharing',
+      link: '/downloads/LAB_7_DETERMINACION_DE_OD_EN_AGUA.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Determinación de la demanda química de oxígeno método espectrofotométrico, reflujo cerrado.</em> Centro de Gestión Industrial [CGI]. ',
       link:
-        'https://drive.google.com/file/d/1sVB5gBlogSSEmEfMuujBITpjFBd8V7vv/view?usp=sharing',
+        '/downloads/LAB_8_DETERMINACION_DE_LA_DEMANDA_QUIMICA_DE_OXIGENO.pdf',
     },
     {
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales [IDEAM]. 2007. <em>Demanda bioquímica de oxígeno 5 días.</em>',
-      link:
-        'https://drive.google.com/file/d/1IG9iyTerV-OZFm6BiSb2eiknzr_eTlzt/view?usp=sharing',
+      link: '/downloads/LAB_9_Demanda_Bioquimica_de_Oxigeno.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para el ensayo test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
-      link:
-        'https://drive.google.com/file/d/1TrMQ7MbGXhu6yZ1kzs2kgDbcxvdY9ku7/view?usp=sharing',
+      link: '/downloads/LAB_12_TEST_DE_JARRAS.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA].  2020. <em>Práctica de laboratorio determinación de coliformes y e.coli  en aguas residuales mediante tubos de fermentación (NMP).</em> Centro de Gestión Industrial [CGI]. ',
       link:
-        'https://drive.google.com/file/d/1KfeBXbPTDmNU7uC4YsOPGnFAYQh6aRcg/view?usp=sharing',
+        '/downloads/Practica_de_laboratorio_para_determinar_coliformes_totales_en_aguas_residuales.pdf',
     },
   ],
   creditos: [

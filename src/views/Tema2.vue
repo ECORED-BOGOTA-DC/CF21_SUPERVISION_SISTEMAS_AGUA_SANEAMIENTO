@@ -580,7 +580,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-1.png' alt='Determinación de sólidos suspendidos totales, volátiles y fijos.')
         .container-download-tarjeta
-          h4 Determinación de solidos suspendidostotales, volátiles y fijos.
+          h5 Determinación de sólidos suspendidos totales, volátiles y fijos.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_2_DETERMINACION_DE_SOLIDOS_TOTALES_VOLATILES_Y_FIJOS.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -589,7 +589,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-2.png' alt='Procedimiento para la determinación de alcalinidad.')
         .container-download-tarjeta
-          h4 Procedimiento para la determinación de alcalinidad.
+          h5 Procedimiento para la determinación de alcalinidad.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_3_DETERMINACION_DE_ALCALINIDAD_EN_AGUA.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -598,7 +598,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-3.png' alt='Procedimiento para la determinación de cloruros en agua.')
         .container-download-tarjeta
-          h4 Procedimiento para la determinación de cloruros en agua.
+          h5 Procedimiento para la determinación de cloruros en agua.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_4_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -607,7 +607,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-4.png' alt='Determinación de dureza total.  ')
         .container-download-tarjeta
-          h4 Determinación de dureza total.  
+          h5 Determinación de dureza total.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_5_DETERMINACION_DE_DUREZA_TOTAL.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -616,7 +616,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-5.png' alt='Sulfatos en agua por el método nefelométrico.')
         .container-download-tarjeta
-          h4 Sulfatos en agua por el método nefelométrico.
+          h5 Sulfatos en agua por el método nefelométrico.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_6_Sulfato_en_agua_por_Nefelometria_SG.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -625,16 +625,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-6.png' alt='Determinación de la demanda química de oxígeno método espectrofotométrico.')
         .container-download-tarjeta
-          h4 Determinación de la demanda química de oxígeno método espectrofotométrico.
-          .col-sm-auto
-            a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_8_DETERMINACION_DE_LA_DEMANDA_QUIMICA_DE_OXIGENO.pdf')" target="_blank" style="min-width: ")
-              span.pe-3 Descargar
-              img(src="@/assets/curso/temas/img-2.svg" style="max-width: 15px")
-      
-      .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
-        img(src='@/assets/curso/temas/tema2/img-sl-7.png' alt='Determinación de la demanda química de oxígeno método espectrofotométrico.')
-        .container-download-tarjeta
-          h4 Determinación de la demanda química de oxígeno método espectrofotométrico.
+          h5 Determinación de la demanda química de oxígeno método espectrofotométrico.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_8_DETERMINACION_DE_LA_DEMANDA_QUIMICA_DE_OXIGENO.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -643,7 +634,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-8.png' alt='Demanda bioquímica de oxígeno 5 días.')
         .container-download-tarjeta
-          h4 Demanda bioquímica de oxígeno 5 días.
+          h5 Demanda bioquímica de oxígeno 5 días.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_9_Demanda_Bioquimica_de_Oxigeno.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -652,7 +643,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-9.png' alt='Instructivo para el ensayo test de jarras.')
         .container-download-tarjeta
-          h4 Instructivo para la determinación del ensayo test de jarras.
+          h5 Instructivo para el ensayo de test de jarras.
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/LAB_12_TEST_DE_JARRAS.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
@@ -661,7 +652,7 @@
       .tarjeta.tarjeta-slyder-f-edit(style="background-color: #FFE2C0")
         img(src='@/assets/curso/temas/tema2/img-sl-10.png' alt='Práctica de laboratorio determinación de coliformes y e.coli  en aguas residuales mediante  tubos de fermentación (nmp).')
         .container-download-tarjeta
-          h4 Práctica de laboratorio determinación de coliformes y e.coli  en aguas residuales mediante  tubos de fermentación (nmp).
+          h5 Práctica de laboratorio determinación de coliformes y e.coli en aguas residuales mediante tubos de fermentación (nmp).
           .col-sm-auto
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/Practica_de_laboratorio_para_determinar_coliformes_totales_en_aguas_residuales.pdf')" target="_blank" style="min-width: ")
               span.pe-3 Descargar
