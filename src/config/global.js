@@ -233,7 +233,7 @@ export default {
         'Servicio Nacional de Aprendizaje [SENA].  (2020). <em>Práctica de laboratorio. Determinación de coliformes y e.coli  en aguas residuales mediante  tubos de fermentación (nmp).</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
       link:
-        './downloads/Practica_de_laboratorio_para_determinar_coliformes_totales_en_aguas_residuales',
+        './downloads/Practica_de_laboratorio_para_determinar_coliformes_totales_en_aguas_residuales.pdf',
     },
   ],
   glosario: [
@@ -350,8 +350,6 @@ export default {
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA].  2020. <em>Práctica de laboratorio determinación de coliformes y e.coli  en aguas residuales mediante tubos de fermentación (NMP).</em> Centro de Gestión Industrial [CGI]. ',
-      link:
-        '/downloads/Practica_de_laboratorio_para_determinar_coliformes_totales_en_aguas_residuales.pdf',
     },
   ],
   creditos: [
