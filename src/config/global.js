@@ -350,11 +350,6 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Procedimiento para la determinación de la alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
-      link: '/downloads/LAB_7_DETERMINACION_DE_OD_EN_AGUA.pdf',
-    },
-    {
-      referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Determinación de la demanda química de oxígeno método espectrofotométrico, reflujo cerrado.</em> Centro de Gestión Industrial [CGI]. ',
       link:
         '/downloads/LAB_8_DETERMINACION_DE_LA_DEMANDA_QUIMICA_DE_OXIGENO.pdf',
@@ -366,7 +361,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para el ensayo test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
+        'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para el ensayo de test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
       link: '/downloads/LAB_12_TEST_DE_JARRAS.pdf',
     },
     {
