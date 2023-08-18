@@ -181,7 +181,7 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Práctica de laboratorio Determinación de potenciometría.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB 1_DETERMINACION_DE_POTENCIOMETRIA.pdf',
+      descarga: './downloads/LAB_1_DETERMINACION_DE_POTENCIOMETRIA.pdf',
     },
     {
       tema: 'Análisis de muestras',
@@ -215,13 +215,6 @@ export default {
     {
       tema: 'Análisis de muestras',
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Procedimiento para la determinación de oxígeno disuelto.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB_7_DETERMINACION_DE_OD_EN_AGUA.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
         'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Determinación de la demanda química de oxígeno Método espectrofotométrico, reflujo cerrado.</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
       descarga:
@@ -240,7 +233,7 @@ export default {
         'Servicio Nacional de Aprendizaje [SENA].  (2020). <em>Práctica de laboratorio. Determinación de coliformes y e.coli  en aguas residuales mediante  tubos de fermentación (nmp).</em> Centro de Gestión Industrial [CGI]. ',
       tipo: 'Práctica de laboratorio',
       link:
-        'https://drive.google.com/file/d/1KfeBXbPTDmNU7uC4YsOPGnFAYQh6aRcg/view?usp=sharing',
+        './downloads/Practica_de_laboratorio_para_determinar_coliformes_totales_en_aguas_residuales',
     },
   ],
   glosario: [
@@ -325,44 +318,34 @@ export default {
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Práctica de laboratorio determinación de sólidos suspendidos totales, volátiles y fijos.</em> Centro de Gestión Industrial [CGI].',
-      descarga:
-        '/downloads/LAB_2_DETERMINACION_DE_SOLIDOS_TOTALES_VOLATILES_Y_FIJOS.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Práctica de laboratorio procedimiento para la determinación de alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
-      link: '/downloads/LAB_3_DETERMINACION_DE_ALCALINIDAD_EN_AGUA.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Procedimiento para la determinación de cloruros en agua.</em> Centro de Gestión Industrial [CGI]. ',
-      link: '/downloads/LAB_4_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para la determinación de dureza total.</em> Centro de Gestión Industrial [CGI]. ',
-      link: '/downloads/LAB_5_DETERMINACION_DE_DUREZA_TOTAL.pdf',
     },
     {
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales [IDEAM]. 2007. <em>Sulfatos en agua por el método nefelométrico.</em>',
-      link: '/downloads/LAB_6_Sulfato_en_agua_por_Nefelometria_SG.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Determinación de la demanda química de oxígeno método espectrofotométrico, reflujo cerrado.</em> Centro de Gestión Industrial [CGI]. ',
-      link:
-        '/downloads/LAB_8_DETERMINACION_DE_LA_DEMANDA_QUIMICA_DE_OXIGENO.pdf',
     },
     {
       referencia:
         'Instituto de Hidrología, Meteorología y Estudios Ambientales [IDEAM]. 2007. <em>Demanda bioquímica de oxígeno 5 días.</em>',
-      link: '/downloads/LAB_9_Demanda_Bioquimica_de_Oxigeno.pdf',
     },
     {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA]. 2014. <em>Instructivo para el ensayo de test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
-      link: '/downloads/LAB_12_TEST_DE_JARRAS.pdf',
     },
     {
       referencia:
