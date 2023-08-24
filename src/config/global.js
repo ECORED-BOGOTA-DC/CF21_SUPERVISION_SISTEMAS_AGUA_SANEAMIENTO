@@ -113,16 +113,7 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-file-pdf',
-        titulo: 'Descargar PDF',
-        download: 'downloads/anexos.zip',
-      },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -132,108 +123,12 @@ export default {
   },
   complementario: [
     {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales [Ideam]. (2007). <em>Demanda bioquímica de oxígeno 5 días, Incubación y Electrometría.</em>',
-      tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB_9_Demanda_Bioquimica_de_Oxigeno.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Instituto de Hidrología, Meteorología y Estudios Ambientales [Ideam]. (2007). <em>Sulfatos en agua por el método nefelométrico.</em>',
-      tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB_6_Sulfato_en_agua_por_Nefelometria_SG.pdf',
-    },
-    {
       tema: 'Protocolos de laboratorio',
       referencia:
         'Ministerio de Desarrollo Económico. (2000). <em>Reglamento técnico del sector de Agua potable y Saneamiento básico RAS - 2000. Sección 2 Título E Tratamiento de aguas residuales.</em> Dirección de Agua Potable y Saneamiento Básico.',
       tipo: 'Documento',
       link:
         'https://www.minvivienda.gov.co/sites/default/files/documentos/010710_ras_titulo_e_.pdf',
-    },
-    {
-      tema: 'Protocolos de laboratorio',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2018). <em>Manual para el uso del termorreactor ECO 25.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Manual',
-      descarga: './downloads/ME17_TERMOREACTOR--FORMATO-SENA.pdf',
-    },
-    {
-      tema: 'Protocolos de laboratorio',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2017). <em>Manual para uso del equipo cabina de extracción control superior CS-EO1200.</em> Centro de Gestión Industrial [CGI].',
-      tipo: 'Manual',
-      descarga:
-        './downloads/ME04_CABINA_EXTRACCION_CONTROL_SUPERIOR_EC_1200_S_FORMATO_SENA.pdf',
-    },
-    {
-      tema: 'Protocolos de laboratorio',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2017). <em>Manual para uso del equipo MRC balanza de precisión BWLC 1-A2-C2.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Manual',
-      descarga:
-        './downloads/ME03_MRC_BALANZA_PRECISION_BWLC_1-A2-C2_FORMATO_SENA.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Práctica de laboratorio Determinación de potenciometría.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB_1_DETERMINACION_DE_POTENCIOMETRIA.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Práctica de laboratorio Determinación de sólidos totales, volátiles y fijos.</em> Centro de Gestión Industrial[CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      descarga:
-        './downloads/LAB_2_DETERMINACION_DE_SOLIDOS_TOTALES_VOLATILES_Y_FIJOS.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Práctica de laboratorio Procedimiento para la determinación de alcalinidad.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB_3_DETERMINACION_DE_ALCALINIDAD_EN_AGUA.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Procedimiento para la determinación de cloruros en agua.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB_4_DETERMINACION_DE_CLORUROS_EN_AGUA.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Instructivo para la determinación de dureza total.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB_5_DETERMINACION_DE_DUREZA_TOTAL.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Determinación de la demanda química de oxígeno Método espectrofotométrico, reflujo cerrado.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      descarga:
-        './downloads/LAB_8_DETERMINACION_DE_LA_DEMANDA_QUIMICA_DE_OXIGENO.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2014). <em>Instructivo para el ensayo de test de jarras.</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      descarga: './downloads/LAB_12_TEST_DE_JARRAS.pdf',
-    },
-    {
-      tema: 'Análisis de muestras',
-      referencia:
-        'Servicio Nacional de Aprendizaje [SENA].  (2020). <em>Práctica de laboratorio. Determinación de coliformes y e.coli  en aguas residuales mediante  tubos de fermentación (nmp).</em> Centro de Gestión Industrial [CGI]. ',
-      tipo: 'Práctica de laboratorio',
-      link:
-        './downloads/Practica_de_laboratorio_para_determinar_coliformes_totales_en_aguas_residuales.pdf',
     },
   ],
   glosario: [
