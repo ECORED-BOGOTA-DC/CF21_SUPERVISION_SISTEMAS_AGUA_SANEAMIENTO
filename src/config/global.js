@@ -118,11 +118,7 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/921200_CF21_DU.zip',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
